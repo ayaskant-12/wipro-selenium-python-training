@@ -1,5 +1,0 @@
-Hello, this is line one.
-Generators in Python are very useful.
-They save memory and improve performance.
-This file is being read line by line.
-End of the file.

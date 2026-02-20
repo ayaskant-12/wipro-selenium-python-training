@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 7.4.1 (Python 3.11.3 on win32)" generated="2026-02-18T12:08:14.362074" rpa="false" schemaversion="5">
+<suite id="s1" name="Labsesssion01" source="C:\Users\KIIT\Desktop\Robort_framework\labsession\feb18\labsesssion01.robot">
+<test id="s1-t1" name="10. Loop Through Dictionary" line="61">
+<kw name="Log" owner="BuiltIn">
+<msg time="2026-02-18T12:08:14.785393" level="FAIL">Dictionary '${USER}' has no key 'city'.</msg>
+<arg>City is ${USER}[city]</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="FAIL" start="2026-02-18T12:08:14.783629" elapsed="0.003448">Dictionary '${USER}' has no key 'city'.</status>
+</kw>
+<for flavor="IN">
+<iter>
+<kw name="Log" owner="BuiltIn">
+<arg>${key} : ${value}</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="NOT RUN" start="2026-02-18T12:08:14.788117" elapsed="0.000000"/>
+</kw>
+<var name="${key}"/>
+<var name="${value}"/>
+<status status="NOT RUN" start="2026-02-18T12:08:14.788117" elapsed="0.000000"/>
+</iter>
+<var>${key}</var>
+<var>${value}</var>
+<value>&amp;{USER}</value>
+<status status="NOT RUN" start="2026-02-18T12:08:14.787077" elapsed="0.001040"/>
+</for>
+<status status="FAIL" start="2026-02-18T12:08:14.782616" elapsed="0.005501">Dictionary '${USER}' has no key 'city'.</status>
+</test>
+<status status="FAIL" start="2026-02-18T12:08:14.364768" elapsed="0.424349"/>
+</suite>
+<statistics>
+<total>
+<stat pass="0" fail="1" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat name="Labsesssion01" id="s1" pass="0" fail="1" skip="0">Labsesssion01</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>

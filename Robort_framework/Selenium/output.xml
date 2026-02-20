@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 7.4.1 (Python 3.11.3 on win32)" generated="2026-02-19T11:29:23.691291" rpa="false" schemaversion="5">
+<suite id="s1" name="Dropdown" source="C:\Users\KIIT\Desktop\Robort_framework\Selenium\dropdown.robot">
+<test id="s1-t1" name="Verify Drop downs" line="6">
+<kw name="Open Browser" owner="SeleniumLibrary">
+<msg time="2026-02-19T11:29:23.966414" level="INFO">Opening browser 'firefox' to base url 'https://rahulshettyacademy.com/AutomationPractice/'.</msg>
+<arg>${url}</arg>
+<arg>firefox</arg>
+<doc>Opens a new browser instance to the optional ``url``.</doc>
+<status status="PASS" start="2026-02-19T11:29:23.966414" elapsed="13.156816"/>
+</kw>
+<kw name="Maximize Browser Window" owner="SeleniumLibrary">
+<doc>Maximizes current browser window.</doc>
+<status status="PASS" start="2026-02-19T11:29:37.124238" elapsed="0.279966"/>
+</kw>
+<kw name="Wait Until Element Is Visible" owner="SeleniumLibrary">
+<arg>id=dropdown-class-example</arg>
+<doc>Waits until the element ``locator`` is visible.</doc>
+<status status="PASS" start="2026-02-19T11:29:37.405204" elapsed="0.053903"/>
+</kw>
+<kw name="Get Selected List Label" owner="SeleniumLibrary">
+<msg time="2026-02-19T11:29:37.500947" level="INFO">${labels} = Select</msg>
+<var>${labels}</var>
+<arg>id=dropdown-class-example</arg>
+<doc>Returns the label of selected option from selection list ``locator``.</doc>
+<status status="PASS" start="2026-02-19T11:29:37.459107" elapsed="0.041840"/>
+</kw>
+<kw name="Log" owner="BuiltIn">
+<msg time="2026-02-19T11:29:37.501940" level="INFO">Select</msg>
+<arg>${labels}</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2026-02-19T11:29:37.500947" elapsed="0.000993"/>
+</kw>
+<kw name="Select From List By Label" owner="SeleniumLibrary">
+<msg time="2026-02-19T11:29:37.502971" level="INFO">Selecting options from selection list 'id=dropdown-class-example' by label Option3.</msg>
+<arg>id=dropdown-class-example</arg>
+<arg>Option3</arg>
+<doc>Selects options from selection list ``locator`` by ``labels``.</doc>
+<status status="PASS" start="2026-02-19T11:29:37.502971" elapsed="0.120825"/>
+</kw>
+<kw name="Sleep" owner="BuiltIn">
+<msg time="2026-02-19T11:29:39.630885" level="INFO">Slept 2 seconds.</msg>
+<arg>2s</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<status status="PASS" start="2026-02-19T11:29:37.626412" elapsed="2.005146"/>
+</kw>
+<kw name="Select From List By Index" owner="SeleniumLibrary">
+<msg time="2026-02-19T11:29:39.638583" level="INFO">Selecting options from selection list 'id=dropdown-class-example' by index 2.</msg>
+<arg>id=dropdown-class-example</arg>
+<arg>2</arg>
+<doc>Selects options from selection list ``locator`` by ``indexes``.</doc>
+<status status="PASS" start="2026-02-19T11:29:39.635555" elapsed="0.615073"/>
+</kw>
+<kw name="Sleep" owner="BuiltIn">
+<msg time="2026-02-19T11:29:42.259742" level="INFO">Slept 2 seconds.</msg>
+<arg>2s</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<status status="PASS" start="2026-02-19T11:29:40.253641" elapsed="2.007154"/>
+</kw>
+<kw name="Select From List By Value" owner="SeleniumLibrary">
+<msg time="2026-02-19T11:29:42.269085" level="INFO">Selecting options from selection list 'id=dropdown-class-example' by value option1.</msg>
+<arg>id=dropdown-class-example</arg>
+<arg>option1</arg>
+<doc>Selects options from selection list ``locator`` by ``values``.</doc>
+<status status="PASS" start="2026-02-19T11:29:42.266444" elapsed="0.415358"/>
+</kw>
+<kw name="Sleep" owner="BuiltIn">
+<msg time="2026-02-19T11:29:44.688947" level="INFO">Slept 2 seconds.</msg>
+<arg>2s</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<status status="PASS" start="2026-02-19T11:29:42.684880" elapsed="2.004067"/>
+</kw>
+<kw name="Close Browser" owner="SeleniumLibrary">
+<doc>Closes the current browser.</doc>
+<status status="PASS" start="2026-02-19T11:29:44.689476" elapsed="3.040849"/>
+</kw>
+<status status="PASS" start="2026-02-19T11:29:23.965414" elapsed="23.764911"/>
+</test>
+<status status="PASS" start="2026-02-19T11:29:23.692863" elapsed="24.038459"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat name="Dropdown" id="s1" pass="1" fail="0" skip="0">Dropdown</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>

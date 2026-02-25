@@ -1,0 +1,154 @@
+1771668123158	geckodriver	INFO	Listening on 127.0.0.1:65011
+1771668126365	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65012" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KIIT\\AppData\\Local\\Temp\\rust_mozprofilemeh9QV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1771668126985	Marionette	INFO	Marionette enabled
+1771668127277	Marionette	INFO	Listening on port 65028
+WebDriver BiDi listening on ws://127.0.0.1:65012
+Read port: 65028
+1771668127542	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://automationexercise.com/static/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VXNW79gqQX8ZcaCZgbEoDHet6f6szJZilX3LzAyYl-4.js, line 6156: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VXNW79gqQX8ZcaCZgbEoDHet6f6szJZilX3LzAyYl-4.js, line 6156: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VXNW79gqQX8ZcaCZgbEoDHet6f6szJZilX3LzAyYl-4.js, line 6156: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VXNW79gqQX8ZcaCZgbEoDHet6f6szJZilX3LzAyYl-4.js line 2 > eval, line 6156: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VXNW79gqQX8ZcaCZgbEoDHet6f6szJZilX3LzAyYl-4.js line 2 > eval, line 6156: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VXNW79gqQX8ZcaCZgbEoDHet6f6szJZilX3LzAyYl-4.js line 2 > eval line 6156 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VXNW79gqQX8ZcaCZgbEoDHet6f6szJZilX3LzAyYl-4.js line 2 > eval line 6156 > eval line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VXNW79gqQX8ZcaCZgbEoDHet6f6szJZilX3LzAyYl-4.js line 2 > eval, line 6156: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VXNW79gqQX8ZcaCZgbEoDHet6f6szJZilX3LzAyYl-4.js line 2 > eval line 6156 > eval line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VXNW79gqQX8ZcaCZgbEoDHet6f6szJZilX3LzAyYl-4.js line 2 > eval line 6156 > eval line 1 > eval line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://api.b2c.com/api/init-67837llrmed7abvew8my.js?adID=631702729&advertiserID=5481501&campaignID=31418751&creativeID=248932149&placementID=438298835&environment=j&siteid=9008513&country=ct=IN&st=&city=7259&dma=0&zp=560102&bw=4&match=0&site=N339201.4066079OMDPROGRAMMATICUA&landingpage=https://www.visitdubai.com/en/dubai-ready-for-a-surprise%3Futm_source%3Dprogrammatic%26utm_medium%3Ddisplay%26utm_campaign%3Dseasonalaonapac%26utm_term%3Dind-en_winterbanners%26utm_content%3Dconsideration_banner728x90_OPXCAnondubai%26dclid%3D%25edclid!%26gad_source%3D7%26gad_campaignid%3D23467763645, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://automationexercise.com/static/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js, line 293: Script terminated by timeout at:
+ir<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:293:1638
+N/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:93:480
+M/this.ie@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:92:990
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:523
+Mh/c/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:146:321
+Ua@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:51:339
+Pa.prototype.flush@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:51:127
+Ta@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:50:483
+Mh/c/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:146:293
+qc.prototype.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:83:218
+n.ie@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:756
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:523
+qg/</</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:123:515
+Oa.prototype.yc/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:50:315
+qg/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:123:524
+qc.prototype.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:83:218
+n.ie@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:756
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:523
+qg/</</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:123:515
+Oa.prototype.yc/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:50:315
+qg/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:123:524
+qc.prototype.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:83:218
+n.ie@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:756
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:523
+h@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:95:477
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://automationexercise.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://automationexercise.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://automationexercise.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://automationexercise.com."
+JavaScript warning: https://automationexercise.com/static/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: [Exception... "Component is not available"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "<unknown>"  data: no]
+JavaScript error: resource://gre/actors/FormHandlerChild.sys.mjs, line 103: InvalidStateError: JSWindowActorChild.document getter: Cannot access property 'document' after actor 'FormHandler' has been destroyed
+JavaScript warning: https://automationexercise.com/static/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/FormHandlerChild.sys.mjs, line 103: InvalidStateError: JSWindowActorChild.document getter: Cannot access property 'document' after actor 'FormHandler' has been destroyed
+JavaScript error: resource://gre/actors/FormHandlerChild.sys.mjs, line 103: InvalidStateError: JSWindowActorChild.document getter: Cannot access property 'document' after actor 'FormHandler' has been destroyed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://automationexercise.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://automationexercise.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://automationexercise.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://automationexercise.com."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VXNW79gqQX8ZcaCZgbEoDHet6f6szJZilX3LzAyYl-4.js, line 3125: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VXNW79gqQX8ZcaCZgbEoDHet6f6szJZilX3LzAyYl-4.js, line 3125: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VXNW79gqQX8ZcaCZgbEoDHet6f6szJZilX3LzAyYl-4.js, line 3125: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VXNW79gqQX8ZcaCZgbEoDHet6f6szJZilX3LzAyYl-4.js line 2 > eval, line 3125: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VXNW79gqQX8ZcaCZgbEoDHet6f6szJZilX3LzAyYl-4.js line 2 > eval, line 3125: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VXNW79gqQX8ZcaCZgbEoDHet6f6szJZilX3LzAyYl-4.js line 2 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VXNW79gqQX8ZcaCZgbEoDHet6f6szJZilX3LzAyYl-4.js line 2 > eval line 3125 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VXNW79gqQX8ZcaCZgbEoDHet6f6szJZilX3LzAyYl-4.js line 2 > eval, line 3125: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VXNW79gqQX8ZcaCZgbEoDHet6f6szJZilX3LzAyYl-4.js line 2 > eval line 3125 > eval line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VXNW79gqQX8ZcaCZgbEoDHet6f6szJZilX3LzAyYl-4.js line 2 > eval line 3125 > eval line 1 > eval line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VXNW79gqQX8ZcaCZgbEoDHet6f6szJZilX3LzAyYl-4.js, line 1033: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VXNW79gqQX8ZcaCZgbEoDHet6f6szJZilX3LzAyYl-4.js, line 1033: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VXNW79gqQX8ZcaCZgbEoDHet6f6szJZilX3LzAyYl-4.js, line 1033: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VXNW79gqQX8ZcaCZgbEoDHet6f6szJZilX3LzAyYl-4.js line 2 > eval, line 1033: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VXNW79gqQX8ZcaCZgbEoDHet6f6szJZilX3LzAyYl-4.js line 2 > eval, line 1033: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VXNW79gqQX8ZcaCZgbEoDHet6f6szJZilX3LzAyYl-4.js line 2 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VXNW79gqQX8ZcaCZgbEoDHet6f6szJZilX3LzAyYl-4.js line 2 > eval line 1033 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VXNW79gqQX8ZcaCZgbEoDHet6f6szJZilX3LzAyYl-4.js line 2 > eval, line 1033: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VXNW79gqQX8ZcaCZgbEoDHet6f6szJZilX3LzAyYl-4.js line 2 > eval line 1033 > eval line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VXNW79gqQX8ZcaCZgbEoDHet6f6szJZilX3LzAyYl-4.js line 2 > eval line 1033 > eval line 1 > eval line 1 > eval, line 1: unreachable code after return statement
+console.error: [Exception... "Component is not available"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "<unknown>"  data: no]
+JavaScript error: resource://gre/actors/FormHandlerChild.sys.mjs, line 103: InvalidStateError: JSWindowActorChild.document getter: Cannot access property 'document' after actor 'FormHandler' has been destroyed
+JavaScript error: resource://gre/actors/FormHandlerChild.sys.mjs, line 103: InvalidStateError: JSWindowActorChild.document getter: Cannot access property 'document' after actor 'FormHandler' has been destroyed
+JavaScript error: resource://gre/actors/FormHandlerChild.sys.mjs, line 103: InvalidStateError: JSWindowActorChild.document getter: Cannot access property 'document' after actor 'FormHandler' has been destroyed
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VXNW79gqQX8ZcaCZgbEoDHet6f6szJZilX3LzAyYl-4.js, line 1106: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VXNW79gqQX8ZcaCZgbEoDHet6f6szJZilX3LzAyYl-4.js, line 1106: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VXNW79gqQX8ZcaCZgbEoDHet6f6szJZilX3LzAyYl-4.js, line 1106: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VXNW79gqQX8ZcaCZgbEoDHet6f6szJZilX3LzAyYl-4.js line 2 > eval, line 1106: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VXNW79gqQX8ZcaCZgbEoDHet6f6szJZilX3LzAyYl-4.js line 2 > eval, line 1106: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VXNW79gqQX8ZcaCZgbEoDHet6f6szJZilX3LzAyYl-4.js line 2 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VXNW79gqQX8ZcaCZgbEoDHet6f6szJZilX3LzAyYl-4.js line 2 > eval line 1106 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VXNW79gqQX8ZcaCZgbEoDHet6f6szJZilX3LzAyYl-4.js line 2 > eval, line 1106: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VXNW79gqQX8ZcaCZgbEoDHet6f6szJZilX3LzAyYl-4.js line 2 > eval line 1106 > eval line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VXNW79gqQX8ZcaCZgbEoDHet6f6szJZilX3LzAyYl-4.js line 2 > eval line 1106 > eval line 1 > eval line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VXNW79gqQX8ZcaCZgbEoDHet6f6szJZilX3LzAyYl-4.js, line 1817: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VXNW79gqQX8ZcaCZgbEoDHet6f6szJZilX3LzAyYl-4.js, line 1817: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VXNW79gqQX8ZcaCZgbEoDHet6f6szJZilX3LzAyYl-4.js, line 1817: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VXNW79gqQX8ZcaCZgbEoDHet6f6szJZilX3LzAyYl-4.js line 2 > eval, line 1817: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VXNW79gqQX8ZcaCZgbEoDHet6f6szJZilX3LzAyYl-4.js line 2 > eval, line 1817: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VXNW79gqQX8ZcaCZgbEoDHet6f6szJZilX3LzAyYl-4.js line 2 > eval line 1817 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VXNW79gqQX8ZcaCZgbEoDHet6f6szJZilX3LzAyYl-4.js line 2 > eval line 1817 > eval line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VXNW79gqQX8ZcaCZgbEoDHet6f6szJZilX3LzAyYl-4.js line 2 > eval, line 1817: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VXNW79gqQX8ZcaCZgbEoDHet6f6szJZilX3LzAyYl-4.js line 2 > eval line 1817 > eval line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VXNW79gqQX8ZcaCZgbEoDHet6f6szJZilX3LzAyYl-4.js line 2 > eval line 1817 > eval line 1 > eval line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 385: TypeError: can't access property "loadInfo", channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 385: TypeError: can't access property "loadInfo", channel is null
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 2866: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 2866: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 2866: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 2866: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 2866: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 2866: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 2866: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 2866: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 2866: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 2866: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 2866: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 2866: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 2866: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 2866: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 2866: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 2866: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 2866: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 2866: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 2866: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 2866: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 2866: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 2866: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 2866: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 2866: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 2866: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 2866: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 2866: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 2866: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 2866: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 2866: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 2866: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 2866: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 2866: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 2866: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 2866: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 2866: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 2866: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 2866: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 2866: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+1771668225512	Marionette	INFO	Stopped listening on port 65028
+JavaScript error: resource://gre/modules/PrivateBrowsingUtils.sys.mjs, line 19: TypeError: can't access property "isChromeWindow", aWindow is null
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from MARS server: NetworkError when attempting to fetch resource.
+console.error: "Error in worker resource://devtools/client/shared/source-map-loader/worker.js" ": "

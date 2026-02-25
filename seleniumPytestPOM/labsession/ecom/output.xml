@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 7.4.1 (Python 3.11.3 on win32)" generated="2026-02-21T16:56:02.704384" rpa="false" schemaversion="5">
+<suite id="s1" name="Verify Subscription In Home Page" source="C:\Users\KIIT\Desktop\SeleniumPytestPOM\labsession\ecom\verify_subscription_in_home_page.robot">
+<test id="s1-t1" name="Verify Subscription In Home Page" line="9">
+<kw name="Open Browser" owner="SeleniumLibrary">
+<msg time="2026-02-21T16:56:03.292250" level="INFO">Opening browser 'chrome' to base url 'https://automationexercise.com'.</msg>
+<arg>${URL}</arg>
+<arg>${BROWSER}</arg>
+<doc>Opens a new browser instance to the optional ``url``.</doc>
+<status status="PASS" start="2026-02-21T16:56:03.291261" elapsed="8.741964"/>
+</kw>
+<kw name="Maximize Browser Window" owner="SeleniumLibrary">
+<doc>Maximizes current browser window.</doc>
+<status status="PASS" start="2026-02-21T16:56:12.034229" elapsed="0.060947"/>
+</kw>
+<kw name="Wait Until Page Contains" owner="SeleniumLibrary">
+<arg>Home</arg>
+<arg>15s</arg>
+<doc>Waits until ``text`` appears on the current page.</doc>
+<status status="PASS" start="2026-02-21T16:56:12.096084" elapsed="0.045392"/>
+</kw>
+<kw name="Execute Javascript" owner="SeleniumLibrary">
+<msg time="2026-02-21T16:56:12.142499" level="INFO">Executing JavaScript:
+window.scrollTo(0, document.body.scrollHeight)
+Without any arguments.</msg>
+<arg>window.scrollTo(0, document.body.scrollHeight)</arg>
+<doc>Executes the given JavaScript code with possible arguments.</doc>
+<status status="PASS" start="2026-02-21T16:56:12.142499" elapsed="0.013357"/>
+</kw>
+<kw name="Wait Until Page Contains" owner="SeleniumLibrary">
+<arg>Subscription</arg>
+<arg>15s</arg>
+<doc>Waits until ``text`` appears on the current page.</doc>
+<status status="PASS" start="2026-02-21T16:56:12.156857" elapsed="0.040124"/>
+</kw>
+<kw name="Page Should Contain" owner="SeleniumLibrary">
+<msg time="2026-02-21T16:56:12.241530" level="INFO">Current page contains text 'Subscription'.</msg>
+<arg>Subscription</arg>
+<doc>Verifies that current page contains ``text``.</doc>
+<status status="PASS" start="2026-02-21T16:56:12.197503" elapsed="0.044027"/>
+</kw>
+<kw name="Input Text" owner="SeleniumLibrary">
+<msg time="2026-02-21T16:56:12.242559" level="INFO">Typing text 'testuser204@gmail.com' into text field 'xpath=//input[@id='susbscribe_email']'.</msg>
+<arg>xpath=//input[@id='susbscribe_email']</arg>
+<arg>testuser204@gmail.com</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<status status="PASS" start="2026-02-21T16:56:12.242559" elapsed="0.252500"/>
+</kw>
+<kw name="Click Element" owner="SeleniumLibrary">
+<msg time="2026-02-21T16:56:12.498628" level="INFO">Clicking element 'xpath=//button[@id='subscribe']'.</msg>
+<arg>xpath=//button[@id='subscribe']</arg>
+<doc>Click the element identified by ``locator``.</doc>
+<status status="PASS" start="2026-02-21T16:56:12.497604" elapsed="0.143516"/>
+</kw>
+<kw name="Wait Until Page Contains" owner="SeleniumLibrary">
+<arg>You have been successfully subscribed!</arg>
+<arg>15s</arg>
+<doc>Waits until ``text`` appears on the current page.</doc>
+<status status="PASS" start="2026-02-21T16:56:12.642595" elapsed="0.023722"/>
+</kw>
+<kw name="Page Should Contain" owner="SeleniumLibrary">
+<msg time="2026-02-21T16:56:12.690345" level="INFO">Current page contains text 'You have been successfully subscribed!'.</msg>
+<arg>You have been successfully subscribed!</arg>
+<doc>Verifies that current page contains ``text``.</doc>
+<status status="PASS" start="2026-02-21T16:56:12.667779" elapsed="0.022566"/>
+</kw>
+<kw name="Close Browser" owner="SeleniumLibrary">
+<doc>Closes the current browser.</doc>
+<status status="PASS" start="2026-02-21T16:56:12.691361" elapsed="2.252797"/>
+</kw>
+<status status="PASS" start="2026-02-21T16:56:03.288563" elapsed="11.655595"/>
+</test>
+<status status="PASS" start="2026-02-21T16:56:02.706401" elapsed="12.240182"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat name="Verify Subscription In Home Page" id="s1" pass="1" fail="0" skip="0">Verify Subscription In Home Page</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>

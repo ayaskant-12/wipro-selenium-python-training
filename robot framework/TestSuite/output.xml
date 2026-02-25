@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 7.4.1 (Python 3.11.3 on win32)" generated="2026-02-18T11:52:58.323552" rpa="false" schemaversion="5">
+<suite id="s1" name="Variables" source="C:\Users\KIIT\Desktop\Robort_framework\TestSuite\Variables.robot">
+<test id="s1-t1" name="Verify the variables" line="14">
+<kw name="Log" owner="BuiltIn">
+<msg time="2026-02-18T11:52:58.560475" level="INFO">John</msg>
+<arg>${name}</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2026-02-18T11:52:58.560475" elapsed="0.000000"/>
+</kw>
+<kw name="Log" owner="BuiltIn">
+<msg time="2026-02-18T11:52:58.560475" level="INFO">Hyderabad</msg>
+<arg>${city}</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2026-02-18T11:52:58.560475" elapsed="0.000000"/>
+</kw>
+<kw name="Log" owner="BuiltIn">
+<msg time="2026-02-18T11:52:58.561751" level="INFO">St Peters Road</msg>
+<arg>${address}</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2026-02-18T11:52:58.561751" elapsed="0.000000"/>
+</kw>
+<for flavor="IN">
+<iter>
+<kw name="Log" owner="BuiltIn">
+<msg time="2026-02-18T11:52:58.562351" level="INFO">green</msg>
+<arg>${l1}</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2026-02-18T11:52:58.562351" elapsed="0.000000"/>
+</kw>
+<var name="${l1}">green</var>
+<status status="PASS" start="2026-02-18T11:52:58.562351" elapsed="0.000000"/>
+</iter>
+<iter>
+<kw name="Log" owner="BuiltIn">
+<msg time="2026-02-18T11:52:58.563304" level="INFO">red</msg>
+<arg>${l1}</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2026-02-18T11:52:58.563304" elapsed="0.000000"/>
+</kw>
+<var name="${l1}">red</var>
+<status status="PASS" start="2026-02-18T11:52:58.563304" elapsed="0.000000"/>
+</iter>
+<iter>
+<kw name="Log" owner="BuiltIn">
+<msg time="2026-02-18T11:52:58.563304" level="INFO">blue</msg>
+<arg>${l1}</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2026-02-18T11:52:58.563304" elapsed="0.000000"/>
+</kw>
+<var name="${l1}">blue</var>
+<status status="PASS" start="2026-02-18T11:52:58.563304" elapsed="0.000000"/>
+</iter>
+<var>${l1}</var>
+<value>@{list1}</value>
+<status status="PASS" start="2026-02-18T11:52:58.562351" elapsed="0.000953"/>
+</for>
+<for flavor="IN">
+<iter>
+<kw name="Log" owner="BuiltIn">
+<msg time="2026-02-18T11:52:58.564303" level="INFO">apple</msg>
+<arg>${l2}</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2026-02-18T11:52:58.564303" elapsed="0.000000"/>
+</kw>
+<var name="${l2}">apple</var>
+<status status="PASS" start="2026-02-18T11:52:58.564303" elapsed="0.000000"/>
+</iter>
+<iter>
+<kw name="Log" owner="BuiltIn">
+<msg time="2026-02-18T11:52:58.565289" level="INFO">banana</msg>
+<arg>${l2}</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2026-02-18T11:52:58.564303" elapsed="0.000986"/>
+</kw>
+<var name="${l2}">banana</var>
+<status status="PASS" start="2026-02-18T11:52:58.564303" elapsed="0.000986"/>
+</iter>
+<iter>
+<kw name="Log" owner="BuiltIn">
+<msg time="2026-02-18T11:52:58.565289" level="INFO">grapes</msg>
+<arg>${l2}</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2026-02-18T11:52:58.565289" elapsed="0.000000"/>
+</kw>
+<var name="${l2}">grapes</var>
+<status status="PASS" start="2026-02-18T11:52:58.565289" elapsed="0.000000"/>
+</iter>
+<var>${l2}</var>
+<value>@{list2}</value>
+<status status="PASS" start="2026-02-18T11:52:58.564303" elapsed="0.000986"/>
+</for>
+<kw name="Log" owner="BuiltIn">
+<msg time="2026-02-18T11:52:58.566280" level="INFO">green</msg>
+<arg>${list1}[0]</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2026-02-18T11:52:58.566280" elapsed="0.000000"/>
+</kw>
+<kw name="Log" owner="BuiltIn">
+<msg time="2026-02-18T11:52:58.567306" level="INFO">red</msg>
+<arg>${list1}[1]</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2026-02-18T11:52:58.567306" elapsed="0.000000"/>
+</kw>
+<kw name="Log" owner="BuiltIn">
+<msg time="2026-02-18T11:52:58.568292" level="INFO">admin</msg>
+<arg>${creds}[username]</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2026-02-18T11:52:58.568292" elapsed="0.000000"/>
+</kw>
+<kw name="Log" owner="BuiltIn">
+<msg time="2026-02-18T11:52:58.568292" level="INFO">admin123</msg>
+<arg>${creds}[password]</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2026-02-18T11:52:58.568292" elapsed="0.001004"/>
+</kw>
+<status status="PASS" start="2026-02-18T11:52:58.558221" elapsed="0.011075"/>
+</test>
+<status status="PASS" start="2026-02-18T11:52:58.324553" elapsed="0.245351"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat name="Variables" id="s1" pass="1" fail="0" skip="0">Variables</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>

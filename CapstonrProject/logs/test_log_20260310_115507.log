@@ -1,0 +1,1766 @@
+2026-03-10 11:55:07,707 - INFO - Reading checkout data from Excel: C:/Users/KIIT/Desktop/CapstonrProject/testdata/checkout_data.xlsx
+2026-03-10 11:55:07,707 - INFO - Reading checkout data from Excel: C:/Users/KIIT/Desktop/CapstonrProject/testdata/checkout_data.xlsx
+2026-03-10 11:55:07,707 - INFO - Reading checkout data from Excel: C:/Users/KIIT/Desktop/CapstonrProject/testdata/checkout_data.xlsx
+2026-03-10 11:55:07,707 - INFO - Reading checkout data from Excel: C:/Users/KIIT/Desktop/CapstonrProject/testdata/checkout_data.xlsx
+2026-03-10 11:55:07,707 - INFO - Reading checkout data from Excel: C:/Users/KIIT/Desktop/CapstonrProject/testdata/checkout_data.xlsx
+2026-03-10 11:55:07,707 - INFO - Reading checkout data from Excel: C:/Users/KIIT/Desktop/CapstonrProject/testdata/checkout_data.xlsx
+2026-03-10 11:55:07,707 - INFO - Reading checkout data from Excel: C:/Users/KIIT/Desktop/CapstonrProject/testdata/checkout_data.xlsx
+2026-03-10 11:55:07,707 - INFO - Reading checkout data from Excel: C:/Users/KIIT/Desktop/CapstonrProject/testdata/checkout_data.xlsx
+2026-03-10 11:55:07,722 - INFO - Total checkout records loaded: 2
+2026-03-10 11:55:07,722 - INFO - Total checkout records loaded: 2
+2026-03-10 11:55:07,722 - INFO - Total checkout records loaded: 2
+2026-03-10 11:55:07,722 - INFO - Total checkout records loaded: 2
+2026-03-10 11:55:07,722 - INFO - Total checkout records loaded: 2
+2026-03-10 11:55:07,722 - INFO - Total checkout records loaded: 2
+2026-03-10 11:55:07,722 - INFO - Total checkout records loaded: 2
+2026-03-10 11:55:07,722 - INFO - Total checkout records loaded: 2
+2026-03-10 11:55:07,820 - INFO - ====== WebDriver manager ======
+2026-03-10 11:55:07,820 - INFO - ====== WebDriver manager ======
+2026-03-10 11:55:07,820 - INFO - ====== WebDriver manager ======
+2026-03-10 11:55:07,820 - INFO - ====== WebDriver manager ======
+2026-03-10 11:55:07,820 - INFO - ====== WebDriver manager ======
+2026-03-10 11:55:07,820 - INFO - ====== WebDriver manager ======
+2026-03-10 11:55:07,820 - INFO - ====== WebDriver manager ======
+2026-03-10 11:55:07,820 - INFO - ====== WebDriver manager ======
+2026-03-10 11:55:07,820 - INFO - ====== WebDriver manager ======
+2026-03-10 11:55:07,820 - INFO - ====== WebDriver manager ======
+2026-03-10 11:55:12,350 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:55:12,350 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:55:12,350 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:55:12,350 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:55:12,350 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:55:12,350 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:55:12,350 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:55:12,350 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:55:12,350 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:55:12,350 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:55:12,991 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:55:12,991 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:55:12,991 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:55:12,991 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:55:12,991 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:55:12,991 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:55:12,991 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:55:12,991 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:55:12,991 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:55:12,991 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:55:13,263 - INFO - There is no [win64] geckodriver "v0.36.0" for browser firefox "148.0" in cache
+2026-03-10 11:55:13,263 - INFO - There is no [win64] geckodriver "v0.36.0" for browser firefox "148.0" in cache
+2026-03-10 11:55:13,263 - INFO - There is no [win64] geckodriver "v0.36.0" for browser firefox "148.0" in cache
+2026-03-10 11:55:13,263 - INFO - There is no [win64] geckodriver "v0.36.0" for browser firefox "148.0" in cache
+2026-03-10 11:55:13,263 - INFO - There is no [win64] geckodriver "v0.36.0" for browser firefox "148.0" in cache
+2026-03-10 11:55:13,263 - INFO - There is no [win64] geckodriver "v0.36.0" for browser firefox "148.0" in cache
+2026-03-10 11:55:13,263 - INFO - There is no [win64] geckodriver "v0.36.0" for browser firefox "148.0" in cache
+2026-03-10 11:55:13,263 - INFO - There is no [win64] geckodriver "v0.36.0" for browser firefox "148.0" in cache
+2026-03-10 11:55:13,263 - INFO - There is no [win64] geckodriver "v0.36.0" for browser firefox "148.0" in cache
+2026-03-10 11:55:13,263 - INFO - There is no [win64] geckodriver "v0.36.0" for browser firefox "148.0" in cache
+2026-03-10 11:55:13,264 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:55:13,264 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:55:13,264 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:55:13,264 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:55:13,264 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:55:13,264 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:55:13,264 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:55:13,264 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:55:13,264 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:55:13,264 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:55:13,471 - INFO - Getting latest mozilla release info for v0.36.0
+2026-03-10 11:55:13,471 - INFO - Getting latest mozilla release info for v0.36.0
+2026-03-10 11:55:13,471 - INFO - Getting latest mozilla release info for v0.36.0
+2026-03-10 11:55:13,471 - INFO - Getting latest mozilla release info for v0.36.0
+2026-03-10 11:55:13,471 - INFO - Getting latest mozilla release info for v0.36.0
+2026-03-10 11:55:13,471 - INFO - Getting latest mozilla release info for v0.36.0
+2026-03-10 11:55:13,471 - INFO - Getting latest mozilla release info for v0.36.0
+2026-03-10 11:55:13,471 - INFO - Getting latest mozilla release info for v0.36.0
+2026-03-10 11:55:13,471 - INFO - Getting latest mozilla release info for v0.36.0
+2026-03-10 11:55:13,471 - INFO - Getting latest mozilla release info for v0.36.0
+2026-03-10 11:55:14,093 - INFO - About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.36.0/geckodriver-v0.36.0-win64.zip
+2026-03-10 11:55:14,093 - INFO - About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.36.0/geckodriver-v0.36.0-win64.zip
+2026-03-10 11:55:14,093 - INFO - About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.36.0/geckodriver-v0.36.0-win64.zip
+2026-03-10 11:55:14,093 - INFO - About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.36.0/geckodriver-v0.36.0-win64.zip
+2026-03-10 11:55:14,093 - INFO - About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.36.0/geckodriver-v0.36.0-win64.zip
+2026-03-10 11:55:14,093 - INFO - About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.36.0/geckodriver-v0.36.0-win64.zip
+2026-03-10 11:55:14,093 - INFO - About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.36.0/geckodriver-v0.36.0-win64.zip
+2026-03-10 11:55:14,093 - INFO - About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.36.0/geckodriver-v0.36.0-win64.zip
+2026-03-10 11:55:14,093 - INFO - About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.36.0/geckodriver-v0.36.0-win64.zip
+2026-03-10 11:55:14,093 - INFO - About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.36.0/geckodriver-v0.36.0-win64.zip
+2026-03-10 11:55:14,764 - INFO - Driver downloading response is 200
+2026-03-10 11:55:14,764 - INFO - Driver downloading response is 200
+2026-03-10 11:55:14,764 - INFO - Driver downloading response is 200
+2026-03-10 11:55:14,764 - INFO - Driver downloading response is 200
+2026-03-10 11:55:14,764 - INFO - Driver downloading response is 200
+2026-03-10 11:55:14,764 - INFO - Driver downloading response is 200
+2026-03-10 11:55:14,764 - INFO - Driver downloading response is 200
+2026-03-10 11:55:14,764 - INFO - Driver downloading response is 200
+2026-03-10 11:55:14,764 - INFO - Driver downloading response is 200
+2026-03-10 11:55:14,764 - INFO - Driver downloading response is 200
+2026-03-10 11:55:15,401 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:55:15,401 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:55:15,401 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:55:15,401 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:55:15,401 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:55:15,401 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:55:15,401 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:55:15,401 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:55:15,401 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:55:15,401 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:55:15,708 - INFO - Driver has been saved in cache [C:\Users\KIIT\.wdm\drivers\geckodriver\win64\v0.36.0]
+2026-03-10 11:55:15,708 - INFO - Driver has been saved in cache [C:\Users\KIIT\.wdm\drivers\geckodriver\win64\v0.36.0]
+2026-03-10 11:55:15,708 - INFO - Driver has been saved in cache [C:\Users\KIIT\.wdm\drivers\geckodriver\win64\v0.36.0]
+2026-03-10 11:55:15,708 - INFO - Driver has been saved in cache [C:\Users\KIIT\.wdm\drivers\geckodriver\win64\v0.36.0]
+2026-03-10 11:55:15,708 - INFO - Driver has been saved in cache [C:\Users\KIIT\.wdm\drivers\geckodriver\win64\v0.36.0]
+2026-03-10 11:55:15,708 - INFO - Driver has been saved in cache [C:\Users\KIIT\.wdm\drivers\geckodriver\win64\v0.36.0]
+2026-03-10 11:55:15,708 - INFO - Driver has been saved in cache [C:\Users\KIIT\.wdm\drivers\geckodriver\win64\v0.36.0]
+2026-03-10 11:55:15,708 - INFO - Driver has been saved in cache [C:\Users\KIIT\.wdm\drivers\geckodriver\win64\v0.36.0]
+2026-03-10 11:55:15,708 - INFO - Driver has been saved in cache [C:\Users\KIIT\.wdm\drivers\geckodriver\win64\v0.36.0]
+2026-03-10 11:55:15,708 - INFO - Driver has been saved in cache [C:\Users\KIIT\.wdm\drivers\geckodriver\win64\v0.36.0]
+2026-03-10 11:55:26,772 - INFO - Checkout test started
+2026-03-10 11:55:26,772 - INFO - Checkout test started
+2026-03-10 11:55:26,772 - INFO - Checkout test started
+2026-03-10 11:55:26,772 - INFO - Checkout test started
+2026-03-10 11:55:26,772 - INFO - Checkout test started
+2026-03-10 11:55:26,772 - INFO - Checkout test started
+2026-03-10 11:55:26,772 - INFO - Checkout test started
+2026-03-10 11:55:26,772 - INFO - Checkout test started
+2026-03-10 11:55:26,772 - INFO - Checkout test started
+2026-03-10 11:55:26,772 - INFO - Checkout test started
+2026-03-10 11:55:26,772 - INFO - Starting login and add to cart helper
+2026-03-10 11:55:26,772 - INFO - Starting login and add to cart helper
+2026-03-10 11:55:26,772 - INFO - Starting login and add to cart helper
+2026-03-10 11:55:26,772 - INFO - Starting login and add to cart helper
+2026-03-10 11:55:26,772 - INFO - Starting login and add to cart helper
+2026-03-10 11:55:26,772 - INFO - Starting login and add to cart helper
+2026-03-10 11:55:26,772 - INFO - Starting login and add to cart helper
+2026-03-10 11:55:26,772 - INFO - Starting login and add to cart helper
+2026-03-10 11:55:26,772 - INFO - Starting login and add to cart helper
+2026-03-10 11:55:26,772 - INFO - Starting login and add to cart helper
+2026-03-10 11:55:26,773 - INFO - Click Sign In button
+2026-03-10 11:55:26,773 - INFO - Click Sign In button
+2026-03-10 11:55:26,773 - INFO - Click Sign In button
+2026-03-10 11:55:26,773 - INFO - Click Sign In button
+2026-03-10 11:55:26,773 - INFO - Click Sign In button
+2026-03-10 11:55:26,773 - INFO - Click Sign In button
+2026-03-10 11:55:26,773 - INFO - Click Sign In button
+2026-03-10 11:55:26,773 - INFO - Click Sign In button
+2026-03-10 11:55:26,773 - INFO - Click Sign In button
+2026-03-10 11:55:26,773 - INFO - Click Sign In button
+2026-03-10 11:55:26,773 - INFO - Clicking element: ('id', 'signin')
+2026-03-10 11:55:26,773 - INFO - Clicking element: ('id', 'signin')
+2026-03-10 11:55:26,773 - INFO - Clicking element: ('id', 'signin')
+2026-03-10 11:55:26,773 - INFO - Clicking element: ('id', 'signin')
+2026-03-10 11:55:26,773 - INFO - Clicking element: ('id', 'signin')
+2026-03-10 11:55:26,773 - INFO - Clicking element: ('id', 'signin')
+2026-03-10 11:55:26,773 - INFO - Clicking element: ('id', 'signin')
+2026-03-10 11:55:26,773 - INFO - Clicking element: ('id', 'signin')
+2026-03-10 11:55:26,773 - INFO - Clicking element: ('id', 'signin')
+2026-03-10 11:55:26,773 - INFO - Clicking element: ('id', 'signin')
+2026-03-10 11:55:27,884 - INFO - Wait until login modal appears
+2026-03-10 11:55:27,884 - INFO - Wait until login modal appears
+2026-03-10 11:55:27,884 - INFO - Wait until login modal appears
+2026-03-10 11:55:27,884 - INFO - Wait until login modal appears
+2026-03-10 11:55:27,884 - INFO - Wait until login modal appears
+2026-03-10 11:55:27,884 - INFO - Wait until login modal appears
+2026-03-10 11:55:27,884 - INFO - Wait until login modal appears
+2026-03-10 11:55:27,884 - INFO - Wait until login modal appears
+2026-03-10 11:55:27,884 - INFO - Wait until login modal appears
+2026-03-10 11:55:27,884 - INFO - Wait until login modal appears
+2026-03-10 11:55:27,899 - INFO - Enter Username
+2026-03-10 11:55:27,899 - INFO - Enter Username
+2026-03-10 11:55:27,899 - INFO - Enter Username
+2026-03-10 11:55:27,899 - INFO - Enter Username
+2026-03-10 11:55:27,899 - INFO - Enter Username
+2026-03-10 11:55:27,899 - INFO - Enter Username
+2026-03-10 11:55:27,899 - INFO - Enter Username
+2026-03-10 11:55:27,899 - INFO - Enter Username
+2026-03-10 11:55:27,899 - INFO - Enter Username
+2026-03-10 11:55:27,899 - INFO - Enter Username
+2026-03-10 11:55:28,992 - INFO - Enter Password
+2026-03-10 11:55:28,992 - INFO - Enter Password
+2026-03-10 11:55:28,992 - INFO - Enter Password
+2026-03-10 11:55:28,992 - INFO - Enter Password
+2026-03-10 11:55:28,992 - INFO - Enter Password
+2026-03-10 11:55:28,992 - INFO - Enter Password
+2026-03-10 11:55:28,992 - INFO - Enter Password
+2026-03-10 11:55:28,992 - INFO - Enter Password
+2026-03-10 11:55:28,992 - INFO - Enter Password
+2026-03-10 11:55:28,992 - INFO - Enter Password
+2026-03-10 11:55:30,070 - INFO - Click Login
+2026-03-10 11:55:30,070 - INFO - Click Login
+2026-03-10 11:55:30,070 - INFO - Click Login
+2026-03-10 11:55:30,070 - INFO - Click Login
+2026-03-10 11:55:30,070 - INFO - Click Login
+2026-03-10 11:55:30,070 - INFO - Click Login
+2026-03-10 11:55:30,070 - INFO - Click Login
+2026-03-10 11:55:30,070 - INFO - Click Login
+2026-03-10 11:55:30,070 - INFO - Click Login
+2026-03-10 11:55:30,070 - INFO - Click Login
+2026-03-10 11:55:30,070 - INFO - Clicking element: ('id', 'login-btn')
+2026-03-10 11:55:30,070 - INFO - Clicking element: ('id', 'login-btn')
+2026-03-10 11:55:30,070 - INFO - Clicking element: ('id', 'login-btn')
+2026-03-10 11:55:30,070 - INFO - Clicking element: ('id', 'login-btn')
+2026-03-10 11:55:30,070 - INFO - Clicking element: ('id', 'login-btn')
+2026-03-10 11:55:30,070 - INFO - Clicking element: ('id', 'login-btn')
+2026-03-10 11:55:30,070 - INFO - Clicking element: ('id', 'login-btn')
+2026-03-10 11:55:30,070 - INFO - Clicking element: ('id', 'login-btn')
+2026-03-10 11:55:30,070 - INFO - Clicking element: ('id', 'login-btn')
+2026-03-10 11:55:30,070 - INFO - Clicking element: ('id', 'login-btn')
+2026-03-10 11:55:30,099 - ERROR - Element click intercepted ('id', 'login-btn')
+2026-03-10 11:55:30,099 - ERROR - Element click intercepted ('id', 'login-btn')
+2026-03-10 11:55:30,099 - ERROR - Element click intercepted ('id', 'login-btn')
+2026-03-10 11:55:30,099 - ERROR - Element click intercepted ('id', 'login-btn')
+2026-03-10 11:55:30,099 - ERROR - Element click intercepted ('id', 'login-btn')
+2026-03-10 11:55:30,099 - ERROR - Element click intercepted ('id', 'login-btn')
+2026-03-10 11:55:30,099 - ERROR - Element click intercepted ('id', 'login-btn')
+2026-03-10 11:55:30,099 - ERROR - Element click intercepted ('id', 'login-btn')
+2026-03-10 11:55:30,099 - ERROR - Element click intercepted ('id', 'login-btn')
+2026-03-10 11:55:30,099 - ERROR - Element click intercepted ('id', 'login-btn')
+2026-03-10 11:55:30,099 - ERROR - Login failed: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:55:30,099 - ERROR - Login failed: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:55:30,099 - ERROR - Login failed: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:55:30,099 - ERROR - Login failed: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:55:30,099 - ERROR - Login failed: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:55:30,099 - ERROR - Login failed: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:55:30,099 - ERROR - Login failed: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:55:30,099 - ERROR - Login failed: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:55:30,099 - ERROR - Login failed: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:55:30,099 - ERROR - Login failed: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:55:30,099 - ERROR - Error in login_and_add_to_cart helper: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:55:30,099 - ERROR - Error in login_and_add_to_cart helper: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:55:30,099 - ERROR - Error in login_and_add_to_cart helper: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:55:30,099 - ERROR - Error in login_and_add_to_cart helper: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:55:30,099 - ERROR - Error in login_and_add_to_cart helper: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:55:30,099 - ERROR - Error in login_and_add_to_cart helper: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:55:30,099 - ERROR - Error in login_and_add_to_cart helper: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:55:30,099 - ERROR - Error in login_and_add_to_cart helper: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:55:30,099 - ERROR - Error in login_and_add_to_cart helper: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:55:30,099 - ERROR - Error in login_and_add_to_cart helper: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:55:30,101 - ERROR - Checkout test failed due to exception: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:55:30,101 - ERROR - Checkout test failed due to exception: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:55:30,101 - ERROR - Checkout test failed due to exception: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:55:30,101 - ERROR - Checkout test failed due to exception: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:55:30,101 - ERROR - Checkout test failed due to exception: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:55:30,101 - ERROR - Checkout test failed due to exception: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:55:30,101 - ERROR - Checkout test failed due to exception: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:55:30,101 - ERROR - Checkout test failed due to exception: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:55:30,101 - ERROR - Checkout test failed due to exception: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:55:30,101 - ERROR - Checkout test failed due to exception: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:55:30,101 - INFO - Checkout test ended
+2026-03-10 11:55:30,101 - INFO - Checkout test ended
+2026-03-10 11:55:30,101 - INFO - Checkout test ended
+2026-03-10 11:55:30,101 - INFO - Checkout test ended
+2026-03-10 11:55:30,101 - INFO - Checkout test ended
+2026-03-10 11:55:30,101 - INFO - Checkout test ended
+2026-03-10 11:55:30,101 - INFO - Checkout test ended
+2026-03-10 11:55:30,101 - INFO - Checkout test ended
+2026-03-10 11:55:30,101 - INFO - Checkout test ended
+2026-03-10 11:55:30,101 - INFO - Checkout test ended
+2026-03-10 11:55:33,859 - INFO - ====== WebDriver manager ======
+2026-03-10 11:55:33,859 - INFO - ====== WebDriver manager ======
+2026-03-10 11:55:33,859 - INFO - ====== WebDriver manager ======
+2026-03-10 11:55:33,859 - INFO - ====== WebDriver manager ======
+2026-03-10 11:55:33,859 - INFO - ====== WebDriver manager ======
+2026-03-10 11:55:33,859 - INFO - ====== WebDriver manager ======
+2026-03-10 11:55:33,859 - INFO - ====== WebDriver manager ======
+2026-03-10 11:55:33,859 - INFO - ====== WebDriver manager ======
+2026-03-10 11:55:33,859 - INFO - ====== WebDriver manager ======
+2026-03-10 11:55:33,859 - INFO - ====== WebDriver manager ======
+2026-03-10 11:55:39,115 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:55:39,115 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:55:39,115 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:55:39,115 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:55:39,115 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:55:39,115 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:55:39,115 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:55:39,115 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:55:39,115 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:55:39,115 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:55:39,408 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:55:39,408 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:55:39,408 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:55:39,408 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:55:39,408 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:55:39,408 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:55:39,408 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:55:39,408 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:55:39,408 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:55:39,408 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:55:39,669 - INFO - Driver [C:\Users\KIIT\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+2026-03-10 11:55:39,669 - INFO - Driver [C:\Users\KIIT\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+2026-03-10 11:55:39,669 - INFO - Driver [C:\Users\KIIT\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+2026-03-10 11:55:39,669 - INFO - Driver [C:\Users\KIIT\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+2026-03-10 11:55:39,669 - INFO - Driver [C:\Users\KIIT\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+2026-03-10 11:55:39,669 - INFO - Driver [C:\Users\KIIT\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+2026-03-10 11:55:39,669 - INFO - Driver [C:\Users\KIIT\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+2026-03-10 11:55:39,669 - INFO - Driver [C:\Users\KIIT\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+2026-03-10 11:55:39,669 - INFO - Driver [C:\Users\KIIT\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+2026-03-10 11:55:39,669 - INFO - Driver [C:\Users\KIIT\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+2026-03-10 11:55:50,543 - INFO - Checkout test started
+2026-03-10 11:55:50,543 - INFO - Checkout test started
+2026-03-10 11:55:50,543 - INFO - Checkout test started
+2026-03-10 11:55:50,543 - INFO - Checkout test started
+2026-03-10 11:55:50,543 - INFO - Checkout test started
+2026-03-10 11:55:50,543 - INFO - Checkout test started
+2026-03-10 11:55:50,543 - INFO - Checkout test started
+2026-03-10 11:55:50,543 - INFO - Checkout test started
+2026-03-10 11:55:50,543 - INFO - Checkout test started
+2026-03-10 11:55:50,543 - INFO - Checkout test started
+2026-03-10 11:55:50,544 - INFO - Starting login and add to cart helper
+2026-03-10 11:55:50,544 - INFO - Starting login and add to cart helper
+2026-03-10 11:55:50,544 - INFO - Starting login and add to cart helper
+2026-03-10 11:55:50,544 - INFO - Starting login and add to cart helper
+2026-03-10 11:55:50,544 - INFO - Starting login and add to cart helper
+2026-03-10 11:55:50,544 - INFO - Starting login and add to cart helper
+2026-03-10 11:55:50,544 - INFO - Starting login and add to cart helper
+2026-03-10 11:55:50,544 - INFO - Starting login and add to cart helper
+2026-03-10 11:55:50,544 - INFO - Starting login and add to cart helper
+2026-03-10 11:55:50,544 - INFO - Starting login and add to cart helper
+2026-03-10 11:55:50,544 - INFO - Click Sign In button
+2026-03-10 11:55:50,544 - INFO - Click Sign In button
+2026-03-10 11:55:50,544 - INFO - Click Sign In button
+2026-03-10 11:55:50,544 - INFO - Click Sign In button
+2026-03-10 11:55:50,544 - INFO - Click Sign In button
+2026-03-10 11:55:50,544 - INFO - Click Sign In button
+2026-03-10 11:55:50,544 - INFO - Click Sign In button
+2026-03-10 11:55:50,544 - INFO - Click Sign In button
+2026-03-10 11:55:50,544 - INFO - Click Sign In button
+2026-03-10 11:55:50,544 - INFO - Click Sign In button
+2026-03-10 11:55:50,545 - INFO - Clicking element: ('id', 'signin')
+2026-03-10 11:55:50,545 - INFO - Clicking element: ('id', 'signin')
+2026-03-10 11:55:50,545 - INFO - Clicking element: ('id', 'signin')
+2026-03-10 11:55:50,545 - INFO - Clicking element: ('id', 'signin')
+2026-03-10 11:55:50,545 - INFO - Clicking element: ('id', 'signin')
+2026-03-10 11:55:50,545 - INFO - Clicking element: ('id', 'signin')
+2026-03-10 11:55:50,545 - INFO - Clicking element: ('id', 'signin')
+2026-03-10 11:55:50,545 - INFO - Clicking element: ('id', 'signin')
+2026-03-10 11:55:50,545 - INFO - Clicking element: ('id', 'signin')
+2026-03-10 11:55:50,545 - INFO - Clicking element: ('id', 'signin')
+2026-03-10 11:55:51,681 - INFO - Wait until login modal appears
+2026-03-10 11:55:51,681 - INFO - Wait until login modal appears
+2026-03-10 11:55:51,681 - INFO - Wait until login modal appears
+2026-03-10 11:55:51,681 - INFO - Wait until login modal appears
+2026-03-10 11:55:51,681 - INFO - Wait until login modal appears
+2026-03-10 11:55:51,681 - INFO - Wait until login modal appears
+2026-03-10 11:55:51,681 - INFO - Wait until login modal appears
+2026-03-10 11:55:51,681 - INFO - Wait until login modal appears
+2026-03-10 11:55:51,681 - INFO - Wait until login modal appears
+2026-03-10 11:55:51,681 - INFO - Wait until login modal appears
+2026-03-10 11:55:51,696 - INFO - Enter Username
+2026-03-10 11:55:51,696 - INFO - Enter Username
+2026-03-10 11:55:51,696 - INFO - Enter Username
+2026-03-10 11:55:51,696 - INFO - Enter Username
+2026-03-10 11:55:51,696 - INFO - Enter Username
+2026-03-10 11:55:51,696 - INFO - Enter Username
+2026-03-10 11:55:51,696 - INFO - Enter Username
+2026-03-10 11:55:51,696 - INFO - Enter Username
+2026-03-10 11:55:51,696 - INFO - Enter Username
+2026-03-10 11:55:51,696 - INFO - Enter Username
+2026-03-10 11:55:52,774 - INFO - Enter Password
+2026-03-10 11:55:52,774 - INFO - Enter Password
+2026-03-10 11:55:52,774 - INFO - Enter Password
+2026-03-10 11:55:52,774 - INFO - Enter Password
+2026-03-10 11:55:52,774 - INFO - Enter Password
+2026-03-10 11:55:52,774 - INFO - Enter Password
+2026-03-10 11:55:52,774 - INFO - Enter Password
+2026-03-10 11:55:52,774 - INFO - Enter Password
+2026-03-10 11:55:52,774 - INFO - Enter Password
+2026-03-10 11:55:52,774 - INFO - Enter Password
+2026-03-10 11:55:53,844 - INFO - Click Login
+2026-03-10 11:55:53,844 - INFO - Click Login
+2026-03-10 11:55:53,844 - INFO - Click Login
+2026-03-10 11:55:53,844 - INFO - Click Login
+2026-03-10 11:55:53,844 - INFO - Click Login
+2026-03-10 11:55:53,844 - INFO - Click Login
+2026-03-10 11:55:53,844 - INFO - Click Login
+2026-03-10 11:55:53,844 - INFO - Click Login
+2026-03-10 11:55:53,844 - INFO - Click Login
+2026-03-10 11:55:53,844 - INFO - Click Login
+2026-03-10 11:55:53,845 - INFO - Clicking element: ('id', 'login-btn')
+2026-03-10 11:55:53,845 - INFO - Clicking element: ('id', 'login-btn')
+2026-03-10 11:55:53,845 - INFO - Clicking element: ('id', 'login-btn')
+2026-03-10 11:55:53,845 - INFO - Clicking element: ('id', 'login-btn')
+2026-03-10 11:55:53,845 - INFO - Clicking element: ('id', 'login-btn')
+2026-03-10 11:55:53,845 - INFO - Clicking element: ('id', 'login-btn')
+2026-03-10 11:55:53,845 - INFO - Clicking element: ('id', 'login-btn')
+2026-03-10 11:55:53,845 - INFO - Clicking element: ('id', 'login-btn')
+2026-03-10 11:55:53,845 - INFO - Clicking element: ('id', 'login-btn')
+2026-03-10 11:55:53,845 - INFO - Clicking element: ('id', 'login-btn')
+2026-03-10 11:55:53,870 - ERROR - Element click intercepted ('id', 'login-btn')
+2026-03-10 11:55:53,870 - ERROR - Element click intercepted ('id', 'login-btn')
+2026-03-10 11:55:53,870 - ERROR - Element click intercepted ('id', 'login-btn')
+2026-03-10 11:55:53,870 - ERROR - Element click intercepted ('id', 'login-btn')
+2026-03-10 11:55:53,870 - ERROR - Element click intercepted ('id', 'login-btn')
+2026-03-10 11:55:53,870 - ERROR - Element click intercepted ('id', 'login-btn')
+2026-03-10 11:55:53,870 - ERROR - Element click intercepted ('id', 'login-btn')
+2026-03-10 11:55:53,870 - ERROR - Element click intercepted ('id', 'login-btn')
+2026-03-10 11:55:53,870 - ERROR - Element click intercepted ('id', 'login-btn')
+2026-03-10 11:55:53,870 - ERROR - Element click intercepted ('id', 'login-btn')
+2026-03-10 11:55:53,870 - ERROR - Login failed: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:55:53,870 - ERROR - Login failed: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:55:53,870 - ERROR - Login failed: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:55:53,870 - ERROR - Login failed: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:55:53,870 - ERROR - Login failed: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:55:53,870 - ERROR - Login failed: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:55:53,870 - ERROR - Login failed: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:55:53,870 - ERROR - Login failed: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:55:53,870 - ERROR - Login failed: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:55:53,870 - ERROR - Login failed: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:55:53,871 - ERROR - Error in login_and_add_to_cart helper: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:55:53,871 - ERROR - Error in login_and_add_to_cart helper: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:55:53,871 - ERROR - Error in login_and_add_to_cart helper: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:55:53,871 - ERROR - Error in login_and_add_to_cart helper: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:55:53,871 - ERROR - Error in login_and_add_to_cart helper: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:55:53,871 - ERROR - Error in login_and_add_to_cart helper: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:55:53,871 - ERROR - Error in login_and_add_to_cart helper: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:55:53,871 - ERROR - Error in login_and_add_to_cart helper: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:55:53,871 - ERROR - Error in login_and_add_to_cart helper: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:55:53,871 - ERROR - Error in login_and_add_to_cart helper: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:55:53,871 - ERROR - Checkout test failed due to exception: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:55:53,871 - ERROR - Checkout test failed due to exception: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:55:53,871 - ERROR - Checkout test failed due to exception: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:55:53,871 - ERROR - Checkout test failed due to exception: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:55:53,871 - ERROR - Checkout test failed due to exception: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:55:53,871 - ERROR - Checkout test failed due to exception: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:55:53,871 - ERROR - Checkout test failed due to exception: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:55:53,871 - ERROR - Checkout test failed due to exception: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:55:53,871 - ERROR - Checkout test failed due to exception: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:55:53,871 - ERROR - Checkout test failed due to exception: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:55:53,872 - INFO - Checkout test ended
+2026-03-10 11:55:53,872 - INFO - Checkout test ended
+2026-03-10 11:55:53,872 - INFO - Checkout test ended
+2026-03-10 11:55:53,872 - INFO - Checkout test ended
+2026-03-10 11:55:53,872 - INFO - Checkout test ended
+2026-03-10 11:55:53,872 - INFO - Checkout test ended
+2026-03-10 11:55:53,872 - INFO - Checkout test ended
+2026-03-10 11:55:53,872 - INFO - Checkout test ended
+2026-03-10 11:55:53,872 - INFO - Checkout test ended
+2026-03-10 11:55:53,872 - INFO - Checkout test ended
+2026-03-10 11:55:57,705 - INFO - ====== WebDriver manager ======
+2026-03-10 11:55:57,705 - INFO - ====== WebDriver manager ======
+2026-03-10 11:55:57,705 - INFO - ====== WebDriver manager ======
+2026-03-10 11:55:57,705 - INFO - ====== WebDriver manager ======
+2026-03-10 11:55:57,705 - INFO - ====== WebDriver manager ======
+2026-03-10 11:55:57,705 - INFO - ====== WebDriver manager ======
+2026-03-10 11:55:57,705 - INFO - ====== WebDriver manager ======
+2026-03-10 11:55:57,705 - INFO - ====== WebDriver manager ======
+2026-03-10 11:55:57,705 - INFO - ====== WebDriver manager ======
+2026-03-10 11:55:57,705 - INFO - ====== WebDriver manager ======
+2026-03-10 11:56:05,245 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:56:05,245 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:56:05,245 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:56:05,245 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:56:05,245 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:56:05,245 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:56:05,245 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:56:05,245 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:56:05,245 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:56:05,245 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:56:05,547 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:56:05,547 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:56:05,547 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:56:05,547 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:56:05,547 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:56:05,547 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:56:05,547 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:56:05,547 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:56:05,547 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:56:05,547 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:56:05,757 - INFO - Driver [C:\Users\KIIT\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+2026-03-10 11:56:05,757 - INFO - Driver [C:\Users\KIIT\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+2026-03-10 11:56:05,757 - INFO - Driver [C:\Users\KIIT\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+2026-03-10 11:56:05,757 - INFO - Driver [C:\Users\KIIT\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+2026-03-10 11:56:05,757 - INFO - Driver [C:\Users\KIIT\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+2026-03-10 11:56:05,757 - INFO - Driver [C:\Users\KIIT\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+2026-03-10 11:56:05,757 - INFO - Driver [C:\Users\KIIT\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+2026-03-10 11:56:05,757 - INFO - Driver [C:\Users\KIIT\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+2026-03-10 11:56:05,757 - INFO - Driver [C:\Users\KIIT\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+2026-03-10 11:56:05,757 - INFO - Driver [C:\Users\KIIT\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+2026-03-10 11:56:16,793 - INFO - Login test started
+2026-03-10 11:56:16,793 - INFO - Login test started
+2026-03-10 11:56:16,793 - INFO - Login test started
+2026-03-10 11:56:16,793 - INFO - Login test started
+2026-03-10 11:56:16,793 - INFO - Login test started
+2026-03-10 11:56:16,793 - INFO - Login test started
+2026-03-10 11:56:16,793 - INFO - Login test started
+2026-03-10 11:56:16,793 - INFO - Login test started
+2026-03-10 11:56:16,793 - INFO - Login test started
+2026-03-10 11:56:16,793 - INFO - Login test started
+2026-03-10 11:56:16,794 - INFO - Click Sign In button
+2026-03-10 11:56:16,794 - INFO - Click Sign In button
+2026-03-10 11:56:16,794 - INFO - Click Sign In button
+2026-03-10 11:56:16,794 - INFO - Click Sign In button
+2026-03-10 11:56:16,794 - INFO - Click Sign In button
+2026-03-10 11:56:16,794 - INFO - Click Sign In button
+2026-03-10 11:56:16,794 - INFO - Click Sign In button
+2026-03-10 11:56:16,794 - INFO - Click Sign In button
+2026-03-10 11:56:16,794 - INFO - Click Sign In button
+2026-03-10 11:56:16,794 - INFO - Click Sign In button
+2026-03-10 11:56:16,794 - INFO - Clicking element: ('id', 'signin')
+2026-03-10 11:56:16,794 - INFO - Clicking element: ('id', 'signin')
+2026-03-10 11:56:16,794 - INFO - Clicking element: ('id', 'signin')
+2026-03-10 11:56:16,794 - INFO - Clicking element: ('id', 'signin')
+2026-03-10 11:56:16,794 - INFO - Clicking element: ('id', 'signin')
+2026-03-10 11:56:16,794 - INFO - Clicking element: ('id', 'signin')
+2026-03-10 11:56:16,794 - INFO - Clicking element: ('id', 'signin')
+2026-03-10 11:56:16,794 - INFO - Clicking element: ('id', 'signin')
+2026-03-10 11:56:16,794 - INFO - Clicking element: ('id', 'signin')
+2026-03-10 11:56:16,794 - INFO - Clicking element: ('id', 'signin')
+2026-03-10 11:56:17,925 - INFO - Wait until login modal appears
+2026-03-10 11:56:17,925 - INFO - Wait until login modal appears
+2026-03-10 11:56:17,925 - INFO - Wait until login modal appears
+2026-03-10 11:56:17,925 - INFO - Wait until login modal appears
+2026-03-10 11:56:17,925 - INFO - Wait until login modal appears
+2026-03-10 11:56:17,925 - INFO - Wait until login modal appears
+2026-03-10 11:56:17,925 - INFO - Wait until login modal appears
+2026-03-10 11:56:17,925 - INFO - Wait until login modal appears
+2026-03-10 11:56:17,925 - INFO - Wait until login modal appears
+2026-03-10 11:56:17,925 - INFO - Wait until login modal appears
+2026-03-10 11:56:17,939 - INFO - Enter Username
+2026-03-10 11:56:17,939 - INFO - Enter Username
+2026-03-10 11:56:17,939 - INFO - Enter Username
+2026-03-10 11:56:17,939 - INFO - Enter Username
+2026-03-10 11:56:17,939 - INFO - Enter Username
+2026-03-10 11:56:17,939 - INFO - Enter Username
+2026-03-10 11:56:17,939 - INFO - Enter Username
+2026-03-10 11:56:17,939 - INFO - Enter Username
+2026-03-10 11:56:17,939 - INFO - Enter Username
+2026-03-10 11:56:17,939 - INFO - Enter Username
+2026-03-10 11:56:19,029 - INFO - Enter Password
+2026-03-10 11:56:19,029 - INFO - Enter Password
+2026-03-10 11:56:19,029 - INFO - Enter Password
+2026-03-10 11:56:19,029 - INFO - Enter Password
+2026-03-10 11:56:19,029 - INFO - Enter Password
+2026-03-10 11:56:19,029 - INFO - Enter Password
+2026-03-10 11:56:19,029 - INFO - Enter Password
+2026-03-10 11:56:19,029 - INFO - Enter Password
+2026-03-10 11:56:19,029 - INFO - Enter Password
+2026-03-10 11:56:19,029 - INFO - Enter Password
+2026-03-10 11:56:20,131 - INFO - Click Login
+2026-03-10 11:56:20,131 - INFO - Click Login
+2026-03-10 11:56:20,131 - INFO - Click Login
+2026-03-10 11:56:20,131 - INFO - Click Login
+2026-03-10 11:56:20,131 - INFO - Click Login
+2026-03-10 11:56:20,131 - INFO - Click Login
+2026-03-10 11:56:20,131 - INFO - Click Login
+2026-03-10 11:56:20,131 - INFO - Click Login
+2026-03-10 11:56:20,131 - INFO - Click Login
+2026-03-10 11:56:20,131 - INFO - Click Login
+2026-03-10 11:56:20,131 - INFO - Clicking element: ('id', 'login-btn')
+2026-03-10 11:56:20,131 - INFO - Clicking element: ('id', 'login-btn')
+2026-03-10 11:56:20,131 - INFO - Clicking element: ('id', 'login-btn')
+2026-03-10 11:56:20,131 - INFO - Clicking element: ('id', 'login-btn')
+2026-03-10 11:56:20,131 - INFO - Clicking element: ('id', 'login-btn')
+2026-03-10 11:56:20,131 - INFO - Clicking element: ('id', 'login-btn')
+2026-03-10 11:56:20,131 - INFO - Clicking element: ('id', 'login-btn')
+2026-03-10 11:56:20,131 - INFO - Clicking element: ('id', 'login-btn')
+2026-03-10 11:56:20,131 - INFO - Clicking element: ('id', 'login-btn')
+2026-03-10 11:56:20,131 - INFO - Clicking element: ('id', 'login-btn')
+2026-03-10 11:56:20,163 - ERROR - Element click intercepted ('id', 'login-btn')
+2026-03-10 11:56:20,163 - ERROR - Element click intercepted ('id', 'login-btn')
+2026-03-10 11:56:20,163 - ERROR - Element click intercepted ('id', 'login-btn')
+2026-03-10 11:56:20,163 - ERROR - Element click intercepted ('id', 'login-btn')
+2026-03-10 11:56:20,163 - ERROR - Element click intercepted ('id', 'login-btn')
+2026-03-10 11:56:20,163 - ERROR - Element click intercepted ('id', 'login-btn')
+2026-03-10 11:56:20,163 - ERROR - Element click intercepted ('id', 'login-btn')
+2026-03-10 11:56:20,163 - ERROR - Element click intercepted ('id', 'login-btn')
+2026-03-10 11:56:20,163 - ERROR - Element click intercepted ('id', 'login-btn')
+2026-03-10 11:56:20,163 - ERROR - Element click intercepted ('id', 'login-btn')
+2026-03-10 11:56:20,163 - ERROR - Login failed: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:56:20,163 - ERROR - Login failed: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:56:20,163 - ERROR - Login failed: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:56:20,163 - ERROR - Login failed: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:56:20,163 - ERROR - Login failed: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:56:20,163 - ERROR - Login failed: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:56:20,163 - ERROR - Login failed: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:56:20,163 - ERROR - Login failed: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:56:20,163 - ERROR - Login failed: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:56:20,163 - ERROR - Login failed: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:56:20,164 - ERROR - Test failed due to exception: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:56:20,164 - ERROR - Test failed due to exception: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:56:20,164 - ERROR - Test failed due to exception: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:56:20,164 - ERROR - Test failed due to exception: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:56:20,164 - ERROR - Test failed due to exception: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:56:20,164 - ERROR - Test failed due to exception: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:56:20,164 - ERROR - Test failed due to exception: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:56:20,164 - ERROR - Test failed due to exception: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:56:20,164 - ERROR - Test failed due to exception: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:56:20,164 - ERROR - Test failed due to exception: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:56:20,164 - INFO - Login test ended
+2026-03-10 11:56:20,164 - INFO - Login test ended
+2026-03-10 11:56:20,164 - INFO - Login test ended
+2026-03-10 11:56:20,164 - INFO - Login test ended
+2026-03-10 11:56:20,164 - INFO - Login test ended
+2026-03-10 11:56:20,164 - INFO - Login test ended
+2026-03-10 11:56:20,164 - INFO - Login test ended
+2026-03-10 11:56:20,164 - INFO - Login test ended
+2026-03-10 11:56:20,164 - INFO - Login test ended
+2026-03-10 11:56:20,164 - INFO - Login test ended
+2026-03-10 11:56:23,616 - INFO - ====== WebDriver manager ======
+2026-03-10 11:56:23,616 - INFO - ====== WebDriver manager ======
+2026-03-10 11:56:23,616 - INFO - ====== WebDriver manager ======
+2026-03-10 11:56:23,616 - INFO - ====== WebDriver manager ======
+2026-03-10 11:56:23,616 - INFO - ====== WebDriver manager ======
+2026-03-10 11:56:23,616 - INFO - ====== WebDriver manager ======
+2026-03-10 11:56:23,616 - INFO - ====== WebDriver manager ======
+2026-03-10 11:56:23,616 - INFO - ====== WebDriver manager ======
+2026-03-10 11:56:23,616 - INFO - ====== WebDriver manager ======
+2026-03-10 11:56:23,616 - INFO - ====== WebDriver manager ======
+2026-03-10 11:56:28,865 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:56:28,865 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:56:28,865 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:56:28,865 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:56:28,865 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:56:28,865 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:56:28,865 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:56:28,865 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:56:28,865 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:56:28,865 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:56:29,179 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:56:29,179 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:56:29,179 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:56:29,179 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:56:29,179 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:56:29,179 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:56:29,179 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:56:29,179 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:56:29,179 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:56:29,179 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 11:56:29,429 - INFO - Driver [C:\Users\KIIT\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+2026-03-10 11:56:29,429 - INFO - Driver [C:\Users\KIIT\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+2026-03-10 11:56:29,429 - INFO - Driver [C:\Users\KIIT\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+2026-03-10 11:56:29,429 - INFO - Driver [C:\Users\KIIT\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+2026-03-10 11:56:29,429 - INFO - Driver [C:\Users\KIIT\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+2026-03-10 11:56:29,429 - INFO - Driver [C:\Users\KIIT\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+2026-03-10 11:56:29,429 - INFO - Driver [C:\Users\KIIT\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+2026-03-10 11:56:29,429 - INFO - Driver [C:\Users\KIIT\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+2026-03-10 11:56:29,429 - INFO - Driver [C:\Users\KIIT\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+2026-03-10 11:56:29,429 - INFO - Driver [C:\Users\KIIT\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+2026-03-10 11:56:40,438 - INFO - Add product test started
+2026-03-10 11:56:40,438 - INFO - Add product test started
+2026-03-10 11:56:40,438 - INFO - Add product test started
+2026-03-10 11:56:40,438 - INFO - Add product test started
+2026-03-10 11:56:40,438 - INFO - Add product test started
+2026-03-10 11:56:40,438 - INFO - Add product test started
+2026-03-10 11:56:40,438 - INFO - Add product test started
+2026-03-10 11:56:40,438 - INFO - Add product test started
+2026-03-10 11:56:40,438 - INFO - Add product test started
+2026-03-10 11:56:40,438 - INFO - Add product test started
+2026-03-10 11:56:40,439 - INFO - Starting login and add to cart helper
+2026-03-10 11:56:40,439 - INFO - Starting login and add to cart helper
+2026-03-10 11:56:40,439 - INFO - Starting login and add to cart helper
+2026-03-10 11:56:40,439 - INFO - Starting login and add to cart helper
+2026-03-10 11:56:40,439 - INFO - Starting login and add to cart helper
+2026-03-10 11:56:40,439 - INFO - Starting login and add to cart helper
+2026-03-10 11:56:40,439 - INFO - Starting login and add to cart helper
+2026-03-10 11:56:40,439 - INFO - Starting login and add to cart helper
+2026-03-10 11:56:40,439 - INFO - Starting login and add to cart helper
+2026-03-10 11:56:40,439 - INFO - Starting login and add to cart helper
+2026-03-10 11:56:40,439 - INFO - Click Sign In button
+2026-03-10 11:56:40,439 - INFO - Click Sign In button
+2026-03-10 11:56:40,439 - INFO - Click Sign In button
+2026-03-10 11:56:40,439 - INFO - Click Sign In button
+2026-03-10 11:56:40,439 - INFO - Click Sign In button
+2026-03-10 11:56:40,439 - INFO - Click Sign In button
+2026-03-10 11:56:40,439 - INFO - Click Sign In button
+2026-03-10 11:56:40,439 - INFO - Click Sign In button
+2026-03-10 11:56:40,439 - INFO - Click Sign In button
+2026-03-10 11:56:40,439 - INFO - Click Sign In button
+2026-03-10 11:56:40,439 - INFO - Clicking element: ('id', 'signin')
+2026-03-10 11:56:40,439 - INFO - Clicking element: ('id', 'signin')
+2026-03-10 11:56:40,439 - INFO - Clicking element: ('id', 'signin')
+2026-03-10 11:56:40,439 - INFO - Clicking element: ('id', 'signin')
+2026-03-10 11:56:40,439 - INFO - Clicking element: ('id', 'signin')
+2026-03-10 11:56:40,439 - INFO - Clicking element: ('id', 'signin')
+2026-03-10 11:56:40,439 - INFO - Clicking element: ('id', 'signin')
+2026-03-10 11:56:40,439 - INFO - Clicking element: ('id', 'signin')
+2026-03-10 11:56:40,439 - INFO - Clicking element: ('id', 'signin')
+2026-03-10 11:56:40,439 - INFO - Clicking element: ('id', 'signin')
+2026-03-10 11:56:41,607 - INFO - Wait until login modal appears
+2026-03-10 11:56:41,607 - INFO - Wait until login modal appears
+2026-03-10 11:56:41,607 - INFO - Wait until login modal appears
+2026-03-10 11:56:41,607 - INFO - Wait until login modal appears
+2026-03-10 11:56:41,607 - INFO - Wait until login modal appears
+2026-03-10 11:56:41,607 - INFO - Wait until login modal appears
+2026-03-10 11:56:41,607 - INFO - Wait until login modal appears
+2026-03-10 11:56:41,607 - INFO - Wait until login modal appears
+2026-03-10 11:56:41,607 - INFO - Wait until login modal appears
+2026-03-10 11:56:41,607 - INFO - Wait until login modal appears
+2026-03-10 11:56:41,623 - INFO - Enter Username
+2026-03-10 11:56:41,623 - INFO - Enter Username
+2026-03-10 11:56:41,623 - INFO - Enter Username
+2026-03-10 11:56:41,623 - INFO - Enter Username
+2026-03-10 11:56:41,623 - INFO - Enter Username
+2026-03-10 11:56:41,623 - INFO - Enter Username
+2026-03-10 11:56:41,623 - INFO - Enter Username
+2026-03-10 11:56:41,623 - INFO - Enter Username
+2026-03-10 11:56:41,623 - INFO - Enter Username
+2026-03-10 11:56:41,623 - INFO - Enter Username
+2026-03-10 11:56:42,716 - INFO - Enter Password
+2026-03-10 11:56:42,716 - INFO - Enter Password
+2026-03-10 11:56:42,716 - INFO - Enter Password
+2026-03-10 11:56:42,716 - INFO - Enter Password
+2026-03-10 11:56:42,716 - INFO - Enter Password
+2026-03-10 11:56:42,716 - INFO - Enter Password
+2026-03-10 11:56:42,716 - INFO - Enter Password
+2026-03-10 11:56:42,716 - INFO - Enter Password
+2026-03-10 11:56:42,716 - INFO - Enter Password
+2026-03-10 11:56:42,716 - INFO - Enter Password
+2026-03-10 11:56:43,780 - INFO - Click Login
+2026-03-10 11:56:43,780 - INFO - Click Login
+2026-03-10 11:56:43,780 - INFO - Click Login
+2026-03-10 11:56:43,780 - INFO - Click Login
+2026-03-10 11:56:43,780 - INFO - Click Login
+2026-03-10 11:56:43,780 - INFO - Click Login
+2026-03-10 11:56:43,780 - INFO - Click Login
+2026-03-10 11:56:43,780 - INFO - Click Login
+2026-03-10 11:56:43,780 - INFO - Click Login
+2026-03-10 11:56:43,780 - INFO - Click Login
+2026-03-10 11:56:43,780 - INFO - Clicking element: ('id', 'login-btn')
+2026-03-10 11:56:43,780 - INFO - Clicking element: ('id', 'login-btn')
+2026-03-10 11:56:43,780 - INFO - Clicking element: ('id', 'login-btn')
+2026-03-10 11:56:43,780 - INFO - Clicking element: ('id', 'login-btn')
+2026-03-10 11:56:43,780 - INFO - Clicking element: ('id', 'login-btn')
+2026-03-10 11:56:43,780 - INFO - Clicking element: ('id', 'login-btn')
+2026-03-10 11:56:43,780 - INFO - Clicking element: ('id', 'login-btn')
+2026-03-10 11:56:43,780 - INFO - Clicking element: ('id', 'login-btn')
+2026-03-10 11:56:43,780 - INFO - Clicking element: ('id', 'login-btn')
+2026-03-10 11:56:43,780 - INFO - Clicking element: ('id', 'login-btn')
+2026-03-10 11:56:43,809 - ERROR - Element click intercepted ('id', 'login-btn')
+2026-03-10 11:56:43,809 - ERROR - Element click intercepted ('id', 'login-btn')
+2026-03-10 11:56:43,809 - ERROR - Element click intercepted ('id', 'login-btn')
+2026-03-10 11:56:43,809 - ERROR - Element click intercepted ('id', 'login-btn')
+2026-03-10 11:56:43,809 - ERROR - Element click intercepted ('id', 'login-btn')
+2026-03-10 11:56:43,809 - ERROR - Element click intercepted ('id', 'login-btn')
+2026-03-10 11:56:43,809 - ERROR - Element click intercepted ('id', 'login-btn')
+2026-03-10 11:56:43,809 - ERROR - Element click intercepted ('id', 'login-btn')
+2026-03-10 11:56:43,809 - ERROR - Element click intercepted ('id', 'login-btn')
+2026-03-10 11:56:43,809 - ERROR - Element click intercepted ('id', 'login-btn')
+2026-03-10 11:56:43,810 - ERROR - Login failed: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:56:43,810 - ERROR - Login failed: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:56:43,810 - ERROR - Login failed: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:56:43,810 - ERROR - Login failed: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:56:43,810 - ERROR - Login failed: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:56:43,810 - ERROR - Login failed: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:56:43,810 - ERROR - Login failed: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:56:43,810 - ERROR - Login failed: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:56:43,810 - ERROR - Login failed: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:56:43,810 - ERROR - Login failed: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:56:43,811 - ERROR - Error in login_and_add_to_cart helper: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:56:43,811 - ERROR - Error in login_and_add_to_cart helper: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:56:43,811 - ERROR - Error in login_and_add_to_cart helper: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:56:43,811 - ERROR - Error in login_and_add_to_cart helper: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:56:43,811 - ERROR - Error in login_and_add_to_cart helper: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:56:43,811 - ERROR - Error in login_and_add_to_cart helper: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:56:43,811 - ERROR - Error in login_and_add_to_cart helper: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:56:43,811 - ERROR - Error in login_and_add_to_cart helper: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:56:43,811 - ERROR - Error in login_and_add_to_cart helper: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:56:43,811 - ERROR - Error in login_and_add_to_cart helper: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:56:43,811 - ERROR - Test failed due to exception: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:56:43,811 - ERROR - Test failed due to exception: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:56:43,811 - ERROR - Test failed due to exception: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:56:43,811 - ERROR - Test failed due to exception: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:56:43,811 - ERROR - Test failed due to exception: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:56:43,811 - ERROR - Test failed due to exception: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:56:43,811 - ERROR - Test failed due to exception: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:56:43,811 - ERROR - Test failed due to exception: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:56:43,811 - ERROR - Test failed due to exception: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:56:43,811 - ERROR - Test failed due to exception: Message: Element <button id="login-btn" class="Button_root__24MxS Button_slim__2caxo" type="submit"> is not clickable at point (767,493) because another element <span> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:354:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:331:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31
+
+2026-03-10 11:56:43,811 - INFO - Add product test ended
+2026-03-10 11:56:43,811 - INFO - Add product test ended
+2026-03-10 11:56:43,811 - INFO - Add product test ended
+2026-03-10 11:56:43,811 - INFO - Add product test ended
+2026-03-10 11:56:43,811 - INFO - Add product test ended
+2026-03-10 11:56:43,811 - INFO - Add product test ended
+2026-03-10 11:56:43,811 - INFO - Add product test ended
+2026-03-10 11:56:43,811 - INFO - Add product test ended
+2026-03-10 11:56:43,811 - INFO - Add product test ended
+2026-03-10 11:56:43,811 - INFO - Add product test ended

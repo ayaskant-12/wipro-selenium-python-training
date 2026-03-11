@@ -1,0 +1,688 @@
+2026-03-05 10:48:18,931 - INFO - ====== WebDriver manager ======
+2026-03-05 10:48:18,931 - INFO - ====== WebDriver manager ======
+2026-03-05 10:48:18,931 - INFO - ====== WebDriver manager ======
+2026-03-05 10:48:18,931 - INFO - ====== WebDriver manager ======
+2026-03-05 10:48:18,931 - INFO - ====== WebDriver manager ======
+2026-03-05 10:48:18,931 - INFO - ====== WebDriver manager ======
+2026-03-05 10:48:18,931 - INFO - ====== WebDriver manager ======
+2026-03-05 10:48:18,931 - INFO - ====== WebDriver manager ======
+2026-03-05 10:48:20,780 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:48:20,780 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:48:20,780 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:48:20,780 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:48:20,780 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:48:20,780 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:48:20,780 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:48:20,780 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:48:21,130 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:48:21,130 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:48:21,130 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:48:21,130 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:48:21,130 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:48:21,130 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:48:21,130 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:48:21,130 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:48:21,374 - INFO - Driver [C:\Users\KIIT\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 10:48:21,374 - INFO - Driver [C:\Users\KIIT\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 10:48:21,374 - INFO - Driver [C:\Users\KIIT\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 10:48:21,374 - INFO - Driver [C:\Users\KIIT\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 10:48:21,374 - INFO - Driver [C:\Users\KIIT\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 10:48:21,374 - INFO - Driver [C:\Users\KIIT\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 10:48:21,374 - INFO - Driver [C:\Users\KIIT\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 10:48:21,374 - INFO - Driver [C:\Users\KIIT\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 10:48:26,676 - INFO - Checkout test started
+2026-03-05 10:48:26,676 - INFO - Checkout test started
+2026-03-05 10:48:26,676 - INFO - Checkout test started
+2026-03-05 10:48:26,676 - INFO - Checkout test started
+2026-03-05 10:48:26,676 - INFO - Checkout test started
+2026-03-05 10:48:26,676 - INFO - Checkout test started
+2026-03-05 10:48:26,676 - INFO - Checkout test started
+2026-03-05 10:48:26,676 - INFO - Checkout test started
+2026-03-05 10:48:26,677 - INFO - Click Sign In button
+2026-03-05 10:48:26,677 - INFO - Click Sign In button
+2026-03-05 10:48:26,677 - INFO - Click Sign In button
+2026-03-05 10:48:26,677 - INFO - Click Sign In button
+2026-03-05 10:48:26,677 - INFO - Click Sign In button
+2026-03-05 10:48:26,677 - INFO - Click Sign In button
+2026-03-05 10:48:26,677 - INFO - Click Sign In button
+2026-03-05 10:48:26,677 - INFO - Click Sign In button
+2026-03-05 10:48:26,677 - INFO - Clicking element: ('id', 'signin')
+2026-03-05 10:48:26,677 - INFO - Clicking element: ('id', 'signin')
+2026-03-05 10:48:26,677 - INFO - Clicking element: ('id', 'signin')
+2026-03-05 10:48:26,677 - INFO - Clicking element: ('id', 'signin')
+2026-03-05 10:48:26,677 - INFO - Clicking element: ('id', 'signin')
+2026-03-05 10:48:26,677 - INFO - Clicking element: ('id', 'signin')
+2026-03-05 10:48:26,677 - INFO - Clicking element: ('id', 'signin')
+2026-03-05 10:48:26,677 - INFO - Clicking element: ('id', 'signin')
+2026-03-05 10:48:29,859 - INFO - Wait until login modal appears
+2026-03-05 10:48:29,859 - INFO - Wait until login modal appears
+2026-03-05 10:48:29,859 - INFO - Wait until login modal appears
+2026-03-05 10:48:29,859 - INFO - Wait until login modal appears
+2026-03-05 10:48:29,859 - INFO - Wait until login modal appears
+2026-03-05 10:48:29,859 - INFO - Wait until login modal appears
+2026-03-05 10:48:29,859 - INFO - Wait until login modal appears
+2026-03-05 10:48:29,859 - INFO - Wait until login modal appears
+2026-03-05 10:48:30,892 - INFO - Enter Username
+2026-03-05 10:48:30,892 - INFO - Enter Username
+2026-03-05 10:48:30,892 - INFO - Enter Username
+2026-03-05 10:48:30,892 - INFO - Enter Username
+2026-03-05 10:48:30,892 - INFO - Enter Username
+2026-03-05 10:48:30,892 - INFO - Enter Username
+2026-03-05 10:48:30,892 - INFO - Enter Username
+2026-03-05 10:48:30,892 - INFO - Enter Username
+2026-03-05 10:48:32,171 - INFO - Enter Password
+2026-03-05 10:48:32,171 - INFO - Enter Password
+2026-03-05 10:48:32,171 - INFO - Enter Password
+2026-03-05 10:48:32,171 - INFO - Enter Password
+2026-03-05 10:48:32,171 - INFO - Enter Password
+2026-03-05 10:48:32,171 - INFO - Enter Password
+2026-03-05 10:48:32,171 - INFO - Enter Password
+2026-03-05 10:48:32,171 - INFO - Enter Password
+2026-03-05 10:48:33,411 - INFO - Click Login
+2026-03-05 10:48:33,411 - INFO - Click Login
+2026-03-05 10:48:33,411 - INFO - Click Login
+2026-03-05 10:48:33,411 - INFO - Click Login
+2026-03-05 10:48:33,411 - INFO - Click Login
+2026-03-05 10:48:33,411 - INFO - Click Login
+2026-03-05 10:48:33,411 - INFO - Click Login
+2026-03-05 10:48:33,411 - INFO - Click Login
+2026-03-05 10:48:33,412 - INFO - Clicking element: ('id', 'login-btn')
+2026-03-05 10:48:33,412 - INFO - Clicking element: ('id', 'login-btn')
+2026-03-05 10:48:33,412 - INFO - Clicking element: ('id', 'login-btn')
+2026-03-05 10:48:33,412 - INFO - Clicking element: ('id', 'login-btn')
+2026-03-05 10:48:33,412 - INFO - Clicking element: ('id', 'login-btn')
+2026-03-05 10:48:33,412 - INFO - Clicking element: ('id', 'login-btn')
+2026-03-05 10:48:33,412 - INFO - Clicking element: ('id', 'login-btn')
+2026-03-05 10:48:33,412 - INFO - Clicking element: ('id', 'login-btn')
+2026-03-05 10:48:36,568 - INFO - Adding first product to cart
+2026-03-05 10:48:36,568 - INFO - Adding first product to cart
+2026-03-05 10:48:36,568 - INFO - Adding first product to cart
+2026-03-05 10:48:36,568 - INFO - Adding first product to cart
+2026-03-05 10:48:36,568 - INFO - Adding first product to cart
+2026-03-05 10:48:36,568 - INFO - Adding first product to cart
+2026-03-05 10:48:36,568 - INFO - Adding first product to cart
+2026-03-05 10:48:36,568 - INFO - Adding first product to cart
+2026-03-05 10:48:36,569 - INFO - Clicking element: ('xpath', "(//div[@class='shelf-item']//div[text()='Add to cart'])[1]")
+2026-03-05 10:48:36,569 - INFO - Clicking element: ('xpath', "(//div[@class='shelf-item']//div[text()='Add to cart'])[1]")
+2026-03-05 10:48:36,569 - INFO - Clicking element: ('xpath', "(//div[@class='shelf-item']//div[text()='Add to cart'])[1]")
+2026-03-05 10:48:36,569 - INFO - Clicking element: ('xpath', "(//div[@class='shelf-item']//div[text()='Add to cart'])[1]")
+2026-03-05 10:48:36,569 - INFO - Clicking element: ('xpath', "(//div[@class='shelf-item']//div[text()='Add to cart'])[1]")
+2026-03-05 10:48:36,569 - INFO - Clicking element: ('xpath', "(//div[@class='shelf-item']//div[text()='Add to cart'])[1]")
+2026-03-05 10:48:36,569 - INFO - Clicking element: ('xpath', "(//div[@class='shelf-item']//div[text()='Add to cart'])[1]")
+2026-03-05 10:48:36,569 - INFO - Clicking element: ('xpath', "(//div[@class='shelf-item']//div[text()='Add to cart'])[1]")
+2026-03-05 10:48:39,803 - INFO - Navigating to cart
+2026-03-05 10:48:39,803 - INFO - Navigating to cart
+2026-03-05 10:48:39,803 - INFO - Navigating to cart
+2026-03-05 10:48:39,803 - INFO - Navigating to cart
+2026-03-05 10:48:39,803 - INFO - Navigating to cart
+2026-03-05 10:48:39,803 - INFO - Navigating to cart
+2026-03-05 10:48:39,803 - INFO - Navigating to cart
+2026-03-05 10:48:39,803 - INFO - Navigating to cart
+2026-03-05 10:48:39,805 - INFO - Clicking element: ('class name', 'bag')
+2026-03-05 10:48:39,805 - INFO - Clicking element: ('class name', 'bag')
+2026-03-05 10:48:39,805 - INFO - Clicking element: ('class name', 'bag')
+2026-03-05 10:48:39,805 - INFO - Clicking element: ('class name', 'bag')
+2026-03-05 10:48:39,805 - INFO - Clicking element: ('class name', 'bag')
+2026-03-05 10:48:39,805 - INFO - Clicking element: ('class name', 'bag')
+2026-03-05 10:48:39,805 - INFO - Clicking element: ('class name', 'bag')
+2026-03-05 10:48:39,805 - INFO - Clicking element: ('class name', 'bag')
+2026-03-05 10:48:44,006 - INFO - Clicking checkout button
+2026-03-05 10:48:44,006 - INFO - Clicking checkout button
+2026-03-05 10:48:44,006 - INFO - Clicking checkout button
+2026-03-05 10:48:44,006 - INFO - Clicking checkout button
+2026-03-05 10:48:44,006 - INFO - Clicking checkout button
+2026-03-05 10:48:44,006 - INFO - Clicking checkout button
+2026-03-05 10:48:44,006 - INFO - Clicking checkout button
+2026-03-05 10:48:44,006 - INFO - Clicking checkout button
+2026-03-05 10:48:44,006 - INFO - Clicking element: ('xpath', "//div[text()='Checkout']")
+2026-03-05 10:48:44,006 - INFO - Clicking element: ('xpath', "//div[text()='Checkout']")
+2026-03-05 10:48:44,006 - INFO - Clicking element: ('xpath', "//div[text()='Checkout']")
+2026-03-05 10:48:44,006 - INFO - Clicking element: ('xpath', "//div[text()='Checkout']")
+2026-03-05 10:48:44,006 - INFO - Clicking element: ('xpath', "//div[text()='Checkout']")
+2026-03-05 10:48:44,006 - INFO - Clicking element: ('xpath', "//div[text()='Checkout']")
+2026-03-05 10:48:44,006 - INFO - Clicking element: ('xpath', "//div[text()='Checkout']")
+2026-03-05 10:48:44,006 - INFO - Clicking element: ('xpath', "//div[text()='Checkout']")
+2026-03-05 10:48:48,163 - INFO - Filling checkout details
+2026-03-05 10:48:48,163 - INFO - Filling checkout details
+2026-03-05 10:48:48,163 - INFO - Filling checkout details
+2026-03-05 10:48:48,163 - INFO - Filling checkout details
+2026-03-05 10:48:48,163 - INFO - Filling checkout details
+2026-03-05 10:48:48,163 - INFO - Filling checkout details
+2026-03-05 10:48:48,163 - INFO - Filling checkout details
+2026-03-05 10:48:48,163 - INFO - Filling checkout details
+2026-03-05 10:48:48,163 - INFO - Sending keys 'Ayaskant' to element: ('id', 'firstNameInput')
+2026-03-05 10:48:48,163 - INFO - Sending keys 'Ayaskant' to element: ('id', 'firstNameInput')
+2026-03-05 10:48:48,163 - INFO - Sending keys 'Ayaskant' to element: ('id', 'firstNameInput')
+2026-03-05 10:48:48,163 - INFO - Sending keys 'Ayaskant' to element: ('id', 'firstNameInput')
+2026-03-05 10:48:48,163 - INFO - Sending keys 'Ayaskant' to element: ('id', 'firstNameInput')
+2026-03-05 10:48:48,163 - INFO - Sending keys 'Ayaskant' to element: ('id', 'firstNameInput')
+2026-03-05 10:48:48,163 - INFO - Sending keys 'Ayaskant' to element: ('id', 'firstNameInput')
+2026-03-05 10:48:48,163 - INFO - Sending keys 'Ayaskant' to element: ('id', 'firstNameInput')
+2026-03-05 10:48:51,346 - INFO - Sending keys 'Dash' to element: ('id', 'lastNameInput')
+2026-03-05 10:48:51,346 - INFO - Sending keys 'Dash' to element: ('id', 'lastNameInput')
+2026-03-05 10:48:51,346 - INFO - Sending keys 'Dash' to element: ('id', 'lastNameInput')
+2026-03-05 10:48:51,346 - INFO - Sending keys 'Dash' to element: ('id', 'lastNameInput')
+2026-03-05 10:48:51,346 - INFO - Sending keys 'Dash' to element: ('id', 'lastNameInput')
+2026-03-05 10:48:51,346 - INFO - Sending keys 'Dash' to element: ('id', 'lastNameInput')
+2026-03-05 10:48:51,346 - INFO - Sending keys 'Dash' to element: ('id', 'lastNameInput')
+2026-03-05 10:48:51,346 - INFO - Sending keys 'Dash' to element: ('id', 'lastNameInput')
+2026-03-05 10:48:54,514 - INFO - Sending keys 'Bangalore' to element: ('id', 'addressLine1Input')
+2026-03-05 10:48:54,514 - INFO - Sending keys 'Bangalore' to element: ('id', 'addressLine1Input')
+2026-03-05 10:48:54,514 - INFO - Sending keys 'Bangalore' to element: ('id', 'addressLine1Input')
+2026-03-05 10:48:54,514 - INFO - Sending keys 'Bangalore' to element: ('id', 'addressLine1Input')
+2026-03-05 10:48:54,514 - INFO - Sending keys 'Bangalore' to element: ('id', 'addressLine1Input')
+2026-03-05 10:48:54,514 - INFO - Sending keys 'Bangalore' to element: ('id', 'addressLine1Input')
+2026-03-05 10:48:54,514 - INFO - Sending keys 'Bangalore' to element: ('id', 'addressLine1Input')
+2026-03-05 10:48:54,514 - INFO - Sending keys 'Bangalore' to element: ('id', 'addressLine1Input')
+2026-03-05 10:48:57,686 - INFO - Sending keys 'Karnataka' to element: ('id', 'provinceInput')
+2026-03-05 10:48:57,686 - INFO - Sending keys 'Karnataka' to element: ('id', 'provinceInput')
+2026-03-05 10:48:57,686 - INFO - Sending keys 'Karnataka' to element: ('id', 'provinceInput')
+2026-03-05 10:48:57,686 - INFO - Sending keys 'Karnataka' to element: ('id', 'provinceInput')
+2026-03-05 10:48:57,686 - INFO - Sending keys 'Karnataka' to element: ('id', 'provinceInput')
+2026-03-05 10:48:57,686 - INFO - Sending keys 'Karnataka' to element: ('id', 'provinceInput')
+2026-03-05 10:48:57,686 - INFO - Sending keys 'Karnataka' to element: ('id', 'provinceInput')
+2026-03-05 10:48:57,686 - INFO - Sending keys 'Karnataka' to element: ('id', 'provinceInput')
+2026-03-05 10:49:00,852 - INFO - Sending keys '560001' to element: ('id', 'postCodeInput')
+2026-03-05 10:49:00,852 - INFO - Sending keys '560001' to element: ('id', 'postCodeInput')
+2026-03-05 10:49:00,852 - INFO - Sending keys '560001' to element: ('id', 'postCodeInput')
+2026-03-05 10:49:00,852 - INFO - Sending keys '560001' to element: ('id', 'postCodeInput')
+2026-03-05 10:49:00,852 - INFO - Sending keys '560001' to element: ('id', 'postCodeInput')
+2026-03-05 10:49:00,852 - INFO - Sending keys '560001' to element: ('id', 'postCodeInput')
+2026-03-05 10:49:00,852 - INFO - Sending keys '560001' to element: ('id', 'postCodeInput')
+2026-03-05 10:49:00,852 - INFO - Sending keys '560001' to element: ('id', 'postCodeInput')
+2026-03-05 10:49:03,999 - INFO - Submitting checkout form
+2026-03-05 10:49:03,999 - INFO - Submitting checkout form
+2026-03-05 10:49:03,999 - INFO - Submitting checkout form
+2026-03-05 10:49:03,999 - INFO - Submitting checkout form
+2026-03-05 10:49:03,999 - INFO - Submitting checkout form
+2026-03-05 10:49:03,999 - INFO - Submitting checkout form
+2026-03-05 10:49:03,999 - INFO - Submitting checkout form
+2026-03-05 10:49:03,999 - INFO - Submitting checkout form
+2026-03-05 10:49:04,000 - INFO - Clicking element: ('id', 'checkout-shipping-continue')
+2026-03-05 10:49:04,000 - INFO - Clicking element: ('id', 'checkout-shipping-continue')
+2026-03-05 10:49:04,000 - INFO - Clicking element: ('id', 'checkout-shipping-continue')
+2026-03-05 10:49:04,000 - INFO - Clicking element: ('id', 'checkout-shipping-continue')
+2026-03-05 10:49:04,000 - INFO - Clicking element: ('id', 'checkout-shipping-continue')
+2026-03-05 10:49:04,000 - INFO - Clicking element: ('id', 'checkout-shipping-continue')
+2026-03-05 10:49:04,000 - INFO - Clicking element: ('id', 'checkout-shipping-continue')
+2026-03-05 10:49:04,000 - INFO - Clicking element: ('id', 'checkout-shipping-continue')
+2026-03-05 10:49:09,198 - INFO - Confirmation message is displayed
+2026-03-05 10:49:09,198 - INFO - Confirmation message is displayed
+2026-03-05 10:49:09,198 - INFO - Confirmation message is displayed
+2026-03-05 10:49:09,198 - INFO - Confirmation message is displayed
+2026-03-05 10:49:09,198 - INFO - Confirmation message is displayed
+2026-03-05 10:49:09,198 - INFO - Confirmation message is displayed
+2026-03-05 10:49:09,198 - INFO - Confirmation message is displayed
+2026-03-05 10:49:09,198 - INFO - Confirmation message is displayed
+2026-03-05 10:49:09,198 - INFO - Checkout test ended
+2026-03-05 10:49:09,198 - INFO - Checkout test ended
+2026-03-05 10:49:09,198 - INFO - Checkout test ended
+2026-03-05 10:49:09,198 - INFO - Checkout test ended
+2026-03-05 10:49:09,198 - INFO - Checkout test ended
+2026-03-05 10:49:09,198 - INFO - Checkout test ended
+2026-03-05 10:49:09,198 - INFO - Checkout test ended
+2026-03-05 10:49:09,198 - INFO - Checkout test ended
+2026-03-05 10:49:11,580 - INFO - ====== WebDriver manager ======
+2026-03-05 10:49:11,580 - INFO - ====== WebDriver manager ======
+2026-03-05 10:49:11,580 - INFO - ====== WebDriver manager ======
+2026-03-05 10:49:11,580 - INFO - ====== WebDriver manager ======
+2026-03-05 10:49:11,580 - INFO - ====== WebDriver manager ======
+2026-03-05 10:49:11,580 - INFO - ====== WebDriver manager ======
+2026-03-05 10:49:11,580 - INFO - ====== WebDriver manager ======
+2026-03-05 10:49:11,580 - INFO - ====== WebDriver manager ======
+2026-03-05 10:49:13,264 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:49:13,264 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:49:13,264 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:49:13,264 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:49:13,264 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:49:13,264 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:49:13,264 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:49:13,264 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:49:13,468 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:49:13,468 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:49:13,468 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:49:13,468 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:49:13,468 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:49:13,468 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:49:13,468 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:49:13,468 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:49:13,690 - INFO - Driver [C:\Users\KIIT\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 10:49:13,690 - INFO - Driver [C:\Users\KIIT\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 10:49:13,690 - INFO - Driver [C:\Users\KIIT\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 10:49:13,690 - INFO - Driver [C:\Users\KIIT\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 10:49:13,690 - INFO - Driver [C:\Users\KIIT\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 10:49:13,690 - INFO - Driver [C:\Users\KIIT\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 10:49:13,690 - INFO - Driver [C:\Users\KIIT\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 10:49:13,690 - INFO - Driver [C:\Users\KIIT\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 10:49:18,964 - INFO - Checkout test started
+2026-03-05 10:49:18,964 - INFO - Checkout test started
+2026-03-05 10:49:18,964 - INFO - Checkout test started
+2026-03-05 10:49:18,964 - INFO - Checkout test started
+2026-03-05 10:49:18,964 - INFO - Checkout test started
+2026-03-05 10:49:18,964 - INFO - Checkout test started
+2026-03-05 10:49:18,964 - INFO - Checkout test started
+2026-03-05 10:49:18,964 - INFO - Checkout test started
+2026-03-05 10:49:18,964 - INFO - Click Sign In button
+2026-03-05 10:49:18,964 - INFO - Click Sign In button
+2026-03-05 10:49:18,964 - INFO - Click Sign In button
+2026-03-05 10:49:18,964 - INFO - Click Sign In button
+2026-03-05 10:49:18,964 - INFO - Click Sign In button
+2026-03-05 10:49:18,964 - INFO - Click Sign In button
+2026-03-05 10:49:18,964 - INFO - Click Sign In button
+2026-03-05 10:49:18,964 - INFO - Click Sign In button
+2026-03-05 10:49:18,965 - INFO - Clicking element: ('id', 'signin')
+2026-03-05 10:49:18,965 - INFO - Clicking element: ('id', 'signin')
+2026-03-05 10:49:18,965 - INFO - Clicking element: ('id', 'signin')
+2026-03-05 10:49:18,965 - INFO - Clicking element: ('id', 'signin')
+2026-03-05 10:49:18,965 - INFO - Clicking element: ('id', 'signin')
+2026-03-05 10:49:18,965 - INFO - Clicking element: ('id', 'signin')
+2026-03-05 10:49:18,965 - INFO - Clicking element: ('id', 'signin')
+2026-03-05 10:49:18,965 - INFO - Clicking element: ('id', 'signin')
+2026-03-05 10:49:22,137 - INFO - Wait until login modal appears
+2026-03-05 10:49:22,137 - INFO - Wait until login modal appears
+2026-03-05 10:49:22,137 - INFO - Wait until login modal appears
+2026-03-05 10:49:22,137 - INFO - Wait until login modal appears
+2026-03-05 10:49:22,137 - INFO - Wait until login modal appears
+2026-03-05 10:49:22,137 - INFO - Wait until login modal appears
+2026-03-05 10:49:22,137 - INFO - Wait until login modal appears
+2026-03-05 10:49:22,137 - INFO - Wait until login modal appears
+2026-03-05 10:49:23,170 - INFO - Enter Username
+2026-03-05 10:49:23,170 - INFO - Enter Username
+2026-03-05 10:49:23,170 - INFO - Enter Username
+2026-03-05 10:49:23,170 - INFO - Enter Username
+2026-03-05 10:49:23,170 - INFO - Enter Username
+2026-03-05 10:49:23,170 - INFO - Enter Username
+2026-03-05 10:49:23,170 - INFO - Enter Username
+2026-03-05 10:49:23,170 - INFO - Enter Username
+2026-03-05 10:49:24,428 - INFO - Enter Password
+2026-03-05 10:49:24,428 - INFO - Enter Password
+2026-03-05 10:49:24,428 - INFO - Enter Password
+2026-03-05 10:49:24,428 - INFO - Enter Password
+2026-03-05 10:49:24,428 - INFO - Enter Password
+2026-03-05 10:49:24,428 - INFO - Enter Password
+2026-03-05 10:49:24,428 - INFO - Enter Password
+2026-03-05 10:49:24,428 - INFO - Enter Password
+2026-03-05 10:49:25,678 - INFO - Click Login
+2026-03-05 10:49:25,678 - INFO - Click Login
+2026-03-05 10:49:25,678 - INFO - Click Login
+2026-03-05 10:49:25,678 - INFO - Click Login
+2026-03-05 10:49:25,678 - INFO - Click Login
+2026-03-05 10:49:25,678 - INFO - Click Login
+2026-03-05 10:49:25,678 - INFO - Click Login
+2026-03-05 10:49:25,678 - INFO - Click Login
+2026-03-05 10:49:25,679 - INFO - Clicking element: ('id', 'login-btn')
+2026-03-05 10:49:25,679 - INFO - Clicking element: ('id', 'login-btn')
+2026-03-05 10:49:25,679 - INFO - Clicking element: ('id', 'login-btn')
+2026-03-05 10:49:25,679 - INFO - Clicking element: ('id', 'login-btn')
+2026-03-05 10:49:25,679 - INFO - Clicking element: ('id', 'login-btn')
+2026-03-05 10:49:25,679 - INFO - Clicking element: ('id', 'login-btn')
+2026-03-05 10:49:25,679 - INFO - Clicking element: ('id', 'login-btn')
+2026-03-05 10:49:25,679 - INFO - Clicking element: ('id', 'login-btn')
+2026-03-05 10:49:28,835 - INFO - Adding first product to cart
+2026-03-05 10:49:28,835 - INFO - Adding first product to cart
+2026-03-05 10:49:28,835 - INFO - Adding first product to cart
+2026-03-05 10:49:28,835 - INFO - Adding first product to cart
+2026-03-05 10:49:28,835 - INFO - Adding first product to cart
+2026-03-05 10:49:28,835 - INFO - Adding first product to cart
+2026-03-05 10:49:28,835 - INFO - Adding first product to cart
+2026-03-05 10:49:28,835 - INFO - Adding first product to cart
+2026-03-05 10:49:28,835 - INFO - Clicking element: ('xpath', "(//div[@class='shelf-item']//div[text()='Add to cart'])[1]")
+2026-03-05 10:49:28,835 - INFO - Clicking element: ('xpath', "(//div[@class='shelf-item']//div[text()='Add to cart'])[1]")
+2026-03-05 10:49:28,835 - INFO - Clicking element: ('xpath', "(//div[@class='shelf-item']//div[text()='Add to cart'])[1]")
+2026-03-05 10:49:28,835 - INFO - Clicking element: ('xpath', "(//div[@class='shelf-item']//div[text()='Add to cart'])[1]")
+2026-03-05 10:49:28,835 - INFO - Clicking element: ('xpath', "(//div[@class='shelf-item']//div[text()='Add to cart'])[1]")
+2026-03-05 10:49:28,835 - INFO - Clicking element: ('xpath', "(//div[@class='shelf-item']//div[text()='Add to cart'])[1]")
+2026-03-05 10:49:28,835 - INFO - Clicking element: ('xpath', "(//div[@class='shelf-item']//div[text()='Add to cart'])[1]")
+2026-03-05 10:49:28,835 - INFO - Clicking element: ('xpath', "(//div[@class='shelf-item']//div[text()='Add to cart'])[1]")
+2026-03-05 10:49:32,012 - INFO - Navigating to cart
+2026-03-05 10:49:32,012 - INFO - Navigating to cart
+2026-03-05 10:49:32,012 - INFO - Navigating to cart
+2026-03-05 10:49:32,012 - INFO - Navigating to cart
+2026-03-05 10:49:32,012 - INFO - Navigating to cart
+2026-03-05 10:49:32,012 - INFO - Navigating to cart
+2026-03-05 10:49:32,012 - INFO - Navigating to cart
+2026-03-05 10:49:32,012 - INFO - Navigating to cart
+2026-03-05 10:49:32,012 - INFO - Clicking element: ('class name', 'bag')
+2026-03-05 10:49:32,012 - INFO - Clicking element: ('class name', 'bag')
+2026-03-05 10:49:32,012 - INFO - Clicking element: ('class name', 'bag')
+2026-03-05 10:49:32,012 - INFO - Clicking element: ('class name', 'bag')
+2026-03-05 10:49:32,012 - INFO - Clicking element: ('class name', 'bag')
+2026-03-05 10:49:32,012 - INFO - Clicking element: ('class name', 'bag')
+2026-03-05 10:49:32,012 - INFO - Clicking element: ('class name', 'bag')
+2026-03-05 10:49:32,012 - INFO - Clicking element: ('class name', 'bag')
+2026-03-05 10:49:36,171 - INFO - Clicking checkout button
+2026-03-05 10:49:36,171 - INFO - Clicking checkout button
+2026-03-05 10:49:36,171 - INFO - Clicking checkout button
+2026-03-05 10:49:36,171 - INFO - Clicking checkout button
+2026-03-05 10:49:36,171 - INFO - Clicking checkout button
+2026-03-05 10:49:36,171 - INFO - Clicking checkout button
+2026-03-05 10:49:36,171 - INFO - Clicking checkout button
+2026-03-05 10:49:36,171 - INFO - Clicking checkout button
+2026-03-05 10:49:36,171 - INFO - Clicking element: ('xpath', "//div[text()='Checkout']")
+2026-03-05 10:49:36,171 - INFO - Clicking element: ('xpath', "//div[text()='Checkout']")
+2026-03-05 10:49:36,171 - INFO - Clicking element: ('xpath', "//div[text()='Checkout']")
+2026-03-05 10:49:36,171 - INFO - Clicking element: ('xpath', "//div[text()='Checkout']")
+2026-03-05 10:49:36,171 - INFO - Clicking element: ('xpath', "//div[text()='Checkout']")
+2026-03-05 10:49:36,171 - INFO - Clicking element: ('xpath', "//div[text()='Checkout']")
+2026-03-05 10:49:36,171 - INFO - Clicking element: ('xpath', "//div[text()='Checkout']")
+2026-03-05 10:49:36,171 - INFO - Clicking element: ('xpath', "//div[text()='Checkout']")
+2026-03-05 10:49:40,321 - INFO - Filling checkout details
+2026-03-05 10:49:40,321 - INFO - Filling checkout details
+2026-03-05 10:49:40,321 - INFO - Filling checkout details
+2026-03-05 10:49:40,321 - INFO - Filling checkout details
+2026-03-05 10:49:40,321 - INFO - Filling checkout details
+2026-03-05 10:49:40,321 - INFO - Filling checkout details
+2026-03-05 10:49:40,321 - INFO - Filling checkout details
+2026-03-05 10:49:40,321 - INFO - Filling checkout details
+2026-03-05 10:49:40,323 - INFO - Sending keys 'John' to element: ('id', 'firstNameInput')
+2026-03-05 10:49:40,323 - INFO - Sending keys 'John' to element: ('id', 'firstNameInput')
+2026-03-05 10:49:40,323 - INFO - Sending keys 'John' to element: ('id', 'firstNameInput')
+2026-03-05 10:49:40,323 - INFO - Sending keys 'John' to element: ('id', 'firstNameInput')
+2026-03-05 10:49:40,323 - INFO - Sending keys 'John' to element: ('id', 'firstNameInput')
+2026-03-05 10:49:40,323 - INFO - Sending keys 'John' to element: ('id', 'firstNameInput')
+2026-03-05 10:49:40,323 - INFO - Sending keys 'John' to element: ('id', 'firstNameInput')
+2026-03-05 10:49:40,323 - INFO - Sending keys 'John' to element: ('id', 'firstNameInput')
+2026-03-05 10:49:43,485 - INFO - Sending keys 'Doe' to element: ('id', 'lastNameInput')
+2026-03-05 10:49:43,485 - INFO - Sending keys 'Doe' to element: ('id', 'lastNameInput')
+2026-03-05 10:49:43,485 - INFO - Sending keys 'Doe' to element: ('id', 'lastNameInput')
+2026-03-05 10:49:43,485 - INFO - Sending keys 'Doe' to element: ('id', 'lastNameInput')
+2026-03-05 10:49:43,485 - INFO - Sending keys 'Doe' to element: ('id', 'lastNameInput')
+2026-03-05 10:49:43,485 - INFO - Sending keys 'Doe' to element: ('id', 'lastNameInput')
+2026-03-05 10:49:43,485 - INFO - Sending keys 'Doe' to element: ('id', 'lastNameInput')
+2026-03-05 10:49:43,485 - INFO - Sending keys 'Doe' to element: ('id', 'lastNameInput')
+2026-03-05 10:49:46,622 - INFO - Sending keys 'New York' to element: ('id', 'addressLine1Input')
+2026-03-05 10:49:46,622 - INFO - Sending keys 'New York' to element: ('id', 'addressLine1Input')
+2026-03-05 10:49:46,622 - INFO - Sending keys 'New York' to element: ('id', 'addressLine1Input')
+2026-03-05 10:49:46,622 - INFO - Sending keys 'New York' to element: ('id', 'addressLine1Input')
+2026-03-05 10:49:46,622 - INFO - Sending keys 'New York' to element: ('id', 'addressLine1Input')
+2026-03-05 10:49:46,622 - INFO - Sending keys 'New York' to element: ('id', 'addressLine1Input')
+2026-03-05 10:49:46,622 - INFO - Sending keys 'New York' to element: ('id', 'addressLine1Input')
+2026-03-05 10:49:46,622 - INFO - Sending keys 'New York' to element: ('id', 'addressLine1Input')
+2026-03-05 10:49:49,789 - INFO - Sending keys 'NY' to element: ('id', 'provinceInput')
+2026-03-05 10:49:49,789 - INFO - Sending keys 'NY' to element: ('id', 'provinceInput')
+2026-03-05 10:49:49,789 - INFO - Sending keys 'NY' to element: ('id', 'provinceInput')
+2026-03-05 10:49:49,789 - INFO - Sending keys 'NY' to element: ('id', 'provinceInput')
+2026-03-05 10:49:49,789 - INFO - Sending keys 'NY' to element: ('id', 'provinceInput')
+2026-03-05 10:49:49,789 - INFO - Sending keys 'NY' to element: ('id', 'provinceInput')
+2026-03-05 10:49:49,789 - INFO - Sending keys 'NY' to element: ('id', 'provinceInput')
+2026-03-05 10:49:49,789 - INFO - Sending keys 'NY' to element: ('id', 'provinceInput')
+2026-03-05 10:49:52,927 - INFO - Sending keys '10001' to element: ('id', 'postCodeInput')
+2026-03-05 10:49:52,927 - INFO - Sending keys '10001' to element: ('id', 'postCodeInput')
+2026-03-05 10:49:52,927 - INFO - Sending keys '10001' to element: ('id', 'postCodeInput')
+2026-03-05 10:49:52,927 - INFO - Sending keys '10001' to element: ('id', 'postCodeInput')
+2026-03-05 10:49:52,927 - INFO - Sending keys '10001' to element: ('id', 'postCodeInput')
+2026-03-05 10:49:52,927 - INFO - Sending keys '10001' to element: ('id', 'postCodeInput')
+2026-03-05 10:49:52,927 - INFO - Sending keys '10001' to element: ('id', 'postCodeInput')
+2026-03-05 10:49:52,927 - INFO - Sending keys '10001' to element: ('id', 'postCodeInput')
+2026-03-05 10:49:56,076 - INFO - Submitting checkout form
+2026-03-05 10:49:56,076 - INFO - Submitting checkout form
+2026-03-05 10:49:56,076 - INFO - Submitting checkout form
+2026-03-05 10:49:56,076 - INFO - Submitting checkout form
+2026-03-05 10:49:56,076 - INFO - Submitting checkout form
+2026-03-05 10:49:56,076 - INFO - Submitting checkout form
+2026-03-05 10:49:56,076 - INFO - Submitting checkout form
+2026-03-05 10:49:56,076 - INFO - Submitting checkout form
+2026-03-05 10:49:56,076 - INFO - Clicking element: ('id', 'checkout-shipping-continue')
+2026-03-05 10:49:56,076 - INFO - Clicking element: ('id', 'checkout-shipping-continue')
+2026-03-05 10:49:56,076 - INFO - Clicking element: ('id', 'checkout-shipping-continue')
+2026-03-05 10:49:56,076 - INFO - Clicking element: ('id', 'checkout-shipping-continue')
+2026-03-05 10:49:56,076 - INFO - Clicking element: ('id', 'checkout-shipping-continue')
+2026-03-05 10:49:56,076 - INFO - Clicking element: ('id', 'checkout-shipping-continue')
+2026-03-05 10:49:56,076 - INFO - Clicking element: ('id', 'checkout-shipping-continue')
+2026-03-05 10:49:56,076 - INFO - Clicking element: ('id', 'checkout-shipping-continue')
+2026-03-05 10:50:01,269 - INFO - Confirmation message is displayed
+2026-03-05 10:50:01,269 - INFO - Confirmation message is displayed
+2026-03-05 10:50:01,269 - INFO - Confirmation message is displayed
+2026-03-05 10:50:01,269 - INFO - Confirmation message is displayed
+2026-03-05 10:50:01,269 - INFO - Confirmation message is displayed
+2026-03-05 10:50:01,269 - INFO - Confirmation message is displayed
+2026-03-05 10:50:01,269 - INFO - Confirmation message is displayed
+2026-03-05 10:50:01,269 - INFO - Confirmation message is displayed
+2026-03-05 10:50:01,269 - INFO - Checkout test ended
+2026-03-05 10:50:01,269 - INFO - Checkout test ended
+2026-03-05 10:50:01,269 - INFO - Checkout test ended
+2026-03-05 10:50:01,269 - INFO - Checkout test ended
+2026-03-05 10:50:01,269 - INFO - Checkout test ended
+2026-03-05 10:50:01,269 - INFO - Checkout test ended
+2026-03-05 10:50:01,269 - INFO - Checkout test ended
+2026-03-05 10:50:01,269 - INFO - Checkout test ended
+2026-03-05 10:50:03,643 - INFO - ====== WebDriver manager ======
+2026-03-05 10:50:03,643 - INFO - ====== WebDriver manager ======
+2026-03-05 10:50:03,643 - INFO - ====== WebDriver manager ======
+2026-03-05 10:50:03,643 - INFO - ====== WebDriver manager ======
+2026-03-05 10:50:03,643 - INFO - ====== WebDriver manager ======
+2026-03-05 10:50:03,643 - INFO - ====== WebDriver manager ======
+2026-03-05 10:50:03,643 - INFO - ====== WebDriver manager ======
+2026-03-05 10:50:03,643 - INFO - ====== WebDriver manager ======
+2026-03-05 10:50:05,279 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:50:05,279 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:50:05,279 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:50:05,279 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:50:05,279 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:50:05,279 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:50:05,279 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:50:05,279 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:50:05,535 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:50:05,535 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:50:05,535 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:50:05,535 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:50:05,535 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:50:05,535 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:50:05,535 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:50:05,535 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:50:05,729 - INFO - Driver [C:\Users\KIIT\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 10:50:05,729 - INFO - Driver [C:\Users\KIIT\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 10:50:05,729 - INFO - Driver [C:\Users\KIIT\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 10:50:05,729 - INFO - Driver [C:\Users\KIIT\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 10:50:05,729 - INFO - Driver [C:\Users\KIIT\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 10:50:05,729 - INFO - Driver [C:\Users\KIIT\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 10:50:05,729 - INFO - Driver [C:\Users\KIIT\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 10:50:05,729 - INFO - Driver [C:\Users\KIIT\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 10:50:11,069 - INFO - Login test started
+2026-03-05 10:50:11,069 - INFO - Login test started
+2026-03-05 10:50:11,069 - INFO - Login test started
+2026-03-05 10:50:11,069 - INFO - Login test started
+2026-03-05 10:50:11,069 - INFO - Login test started
+2026-03-05 10:50:11,069 - INFO - Login test started
+2026-03-05 10:50:11,069 - INFO - Login test started
+2026-03-05 10:50:11,069 - INFO - Login test started
+2026-03-05 10:50:11,069 - INFO - Click Sign In button
+2026-03-05 10:50:11,069 - INFO - Click Sign In button
+2026-03-05 10:50:11,069 - INFO - Click Sign In button
+2026-03-05 10:50:11,069 - INFO - Click Sign In button
+2026-03-05 10:50:11,069 - INFO - Click Sign In button
+2026-03-05 10:50:11,069 - INFO - Click Sign In button
+2026-03-05 10:50:11,069 - INFO - Click Sign In button
+2026-03-05 10:50:11,069 - INFO - Click Sign In button
+2026-03-05 10:50:11,069 - INFO - Clicking element: ('id', 'signin')
+2026-03-05 10:50:11,069 - INFO - Clicking element: ('id', 'signin')
+2026-03-05 10:50:11,069 - INFO - Clicking element: ('id', 'signin')
+2026-03-05 10:50:11,069 - INFO - Clicking element: ('id', 'signin')
+2026-03-05 10:50:11,069 - INFO - Clicking element: ('id', 'signin')
+2026-03-05 10:50:11,069 - INFO - Clicking element: ('id', 'signin')
+2026-03-05 10:50:11,069 - INFO - Clicking element: ('id', 'signin')
+2026-03-05 10:50:11,069 - INFO - Clicking element: ('id', 'signin')
+2026-03-05 10:50:14,253 - INFO - Wait until login modal appears
+2026-03-05 10:50:14,253 - INFO - Wait until login modal appears
+2026-03-05 10:50:14,253 - INFO - Wait until login modal appears
+2026-03-05 10:50:14,253 - INFO - Wait until login modal appears
+2026-03-05 10:50:14,253 - INFO - Wait until login modal appears
+2026-03-05 10:50:14,253 - INFO - Wait until login modal appears
+2026-03-05 10:50:14,253 - INFO - Wait until login modal appears
+2026-03-05 10:50:14,253 - INFO - Wait until login modal appears
+2026-03-05 10:50:15,288 - INFO - Enter Username
+2026-03-05 10:50:15,288 - INFO - Enter Username
+2026-03-05 10:50:15,288 - INFO - Enter Username
+2026-03-05 10:50:15,288 - INFO - Enter Username
+2026-03-05 10:50:15,288 - INFO - Enter Username
+2026-03-05 10:50:15,288 - INFO - Enter Username
+2026-03-05 10:50:15,288 - INFO - Enter Username
+2026-03-05 10:50:15,288 - INFO - Enter Username
+2026-03-05 10:50:16,540 - INFO - Enter Password
+2026-03-05 10:50:16,540 - INFO - Enter Password
+2026-03-05 10:50:16,540 - INFO - Enter Password
+2026-03-05 10:50:16,540 - INFO - Enter Password
+2026-03-05 10:50:16,540 - INFO - Enter Password
+2026-03-05 10:50:16,540 - INFO - Enter Password
+2026-03-05 10:50:16,540 - INFO - Enter Password
+2026-03-05 10:50:16,540 - INFO - Enter Password
+2026-03-05 10:50:17,785 - INFO - Click Login
+2026-03-05 10:50:17,785 - INFO - Click Login
+2026-03-05 10:50:17,785 - INFO - Click Login
+2026-03-05 10:50:17,785 - INFO - Click Login
+2026-03-05 10:50:17,785 - INFO - Click Login
+2026-03-05 10:50:17,785 - INFO - Click Login
+2026-03-05 10:50:17,785 - INFO - Click Login
+2026-03-05 10:50:17,785 - INFO - Click Login
+2026-03-05 10:50:17,785 - INFO - Clicking element: ('id', 'login-btn')
+2026-03-05 10:50:17,785 - INFO - Clicking element: ('id', 'login-btn')
+2026-03-05 10:50:17,785 - INFO - Clicking element: ('id', 'login-btn')
+2026-03-05 10:50:17,785 - INFO - Clicking element: ('id', 'login-btn')
+2026-03-05 10:50:17,785 - INFO - Clicking element: ('id', 'login-btn')
+2026-03-05 10:50:17,785 - INFO - Clicking element: ('id', 'login-btn')
+2026-03-05 10:50:17,785 - INFO - Clicking element: ('id', 'login-btn')
+2026-03-05 10:50:17,785 - INFO - Clicking element: ('id', 'login-btn')
+2026-03-05 10:50:22,957 - INFO - Login test ended
+2026-03-05 10:50:22,957 - INFO - Login test ended
+2026-03-05 10:50:22,957 - INFO - Login test ended
+2026-03-05 10:50:22,957 - INFO - Login test ended
+2026-03-05 10:50:22,957 - INFO - Login test ended
+2026-03-05 10:50:22,957 - INFO - Login test ended
+2026-03-05 10:50:22,957 - INFO - Login test ended
+2026-03-05 10:50:22,957 - INFO - Login test ended
+2026-03-05 10:50:25,289 - INFO - ====== WebDriver manager ======
+2026-03-05 10:50:25,289 - INFO - ====== WebDriver manager ======
+2026-03-05 10:50:25,289 - INFO - ====== WebDriver manager ======
+2026-03-05 10:50:25,289 - INFO - ====== WebDriver manager ======
+2026-03-05 10:50:25,289 - INFO - ====== WebDriver manager ======
+2026-03-05 10:50:25,289 - INFO - ====== WebDriver manager ======
+2026-03-05 10:50:25,289 - INFO - ====== WebDriver manager ======
+2026-03-05 10:50:25,289 - INFO - ====== WebDriver manager ======
+2026-03-05 10:50:26,913 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:50:26,913 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:50:26,913 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:50:26,913 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:50:26,913 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:50:26,913 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:50:26,913 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:50:26,913 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:50:27,217 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:50:27,217 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:50:27,217 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:50:27,217 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:50:27,217 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:50:27,217 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:50:27,217 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:50:27,217 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:50:27,448 - INFO - Driver [C:\Users\KIIT\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 10:50:27,448 - INFO - Driver [C:\Users\KIIT\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 10:50:27,448 - INFO - Driver [C:\Users\KIIT\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 10:50:27,448 - INFO - Driver [C:\Users\KIIT\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 10:50:27,448 - INFO - Driver [C:\Users\KIIT\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 10:50:27,448 - INFO - Driver [C:\Users\KIIT\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 10:50:27,448 - INFO - Driver [C:\Users\KIIT\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 10:50:27,448 - INFO - Driver [C:\Users\KIIT\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 10:50:32,638 - INFO - Add product test started
+2026-03-05 10:50:32,638 - INFO - Add product test started
+2026-03-05 10:50:32,638 - INFO - Add product test started
+2026-03-05 10:50:32,638 - INFO - Add product test started
+2026-03-05 10:50:32,638 - INFO - Add product test started
+2026-03-05 10:50:32,638 - INFO - Add product test started
+2026-03-05 10:50:32,638 - INFO - Add product test started
+2026-03-05 10:50:32,638 - INFO - Add product test started
+2026-03-05 10:50:32,638 - INFO - Click Sign In button
+2026-03-05 10:50:32,638 - INFO - Click Sign In button
+2026-03-05 10:50:32,638 - INFO - Click Sign In button
+2026-03-05 10:50:32,638 - INFO - Click Sign In button
+2026-03-05 10:50:32,638 - INFO - Click Sign In button
+2026-03-05 10:50:32,638 - INFO - Click Sign In button
+2026-03-05 10:50:32,638 - INFO - Click Sign In button
+2026-03-05 10:50:32,638 - INFO - Click Sign In button
+2026-03-05 10:50:32,638 - INFO - Clicking element: ('id', 'signin')
+2026-03-05 10:50:32,638 - INFO - Clicking element: ('id', 'signin')
+2026-03-05 10:50:32,638 - INFO - Clicking element: ('id', 'signin')
+2026-03-05 10:50:32,638 - INFO - Clicking element: ('id', 'signin')
+2026-03-05 10:50:32,638 - INFO - Clicking element: ('id', 'signin')
+2026-03-05 10:50:32,638 - INFO - Clicking element: ('id', 'signin')
+2026-03-05 10:50:32,638 - INFO - Clicking element: ('id', 'signin')
+2026-03-05 10:50:32,638 - INFO - Clicking element: ('id', 'signin')
+2026-03-05 10:50:35,817 - INFO - Wait until login modal appears
+2026-03-05 10:50:35,817 - INFO - Wait until login modal appears
+2026-03-05 10:50:35,817 - INFO - Wait until login modal appears
+2026-03-05 10:50:35,817 - INFO - Wait until login modal appears
+2026-03-05 10:50:35,817 - INFO - Wait until login modal appears
+2026-03-05 10:50:35,817 - INFO - Wait until login modal appears
+2026-03-05 10:50:35,817 - INFO - Wait until login modal appears
+2026-03-05 10:50:35,817 - INFO - Wait until login modal appears
+2026-03-05 10:50:36,851 - INFO - Enter Username
+2026-03-05 10:50:36,851 - INFO - Enter Username
+2026-03-05 10:50:36,851 - INFO - Enter Username
+2026-03-05 10:50:36,851 - INFO - Enter Username
+2026-03-05 10:50:36,851 - INFO - Enter Username
+2026-03-05 10:50:36,851 - INFO - Enter Username
+2026-03-05 10:50:36,851 - INFO - Enter Username
+2026-03-05 10:50:36,851 - INFO - Enter Username
+2026-03-05 10:50:38,104 - INFO - Enter Password
+2026-03-05 10:50:38,104 - INFO - Enter Password
+2026-03-05 10:50:38,104 - INFO - Enter Password
+2026-03-05 10:50:38,104 - INFO - Enter Password
+2026-03-05 10:50:38,104 - INFO - Enter Password
+2026-03-05 10:50:38,104 - INFO - Enter Password
+2026-03-05 10:50:38,104 - INFO - Enter Password
+2026-03-05 10:50:38,104 - INFO - Enter Password
+2026-03-05 10:50:39,338 - INFO - Click Login
+2026-03-05 10:50:39,338 - INFO - Click Login
+2026-03-05 10:50:39,338 - INFO - Click Login
+2026-03-05 10:50:39,338 - INFO - Click Login
+2026-03-05 10:50:39,338 - INFO - Click Login
+2026-03-05 10:50:39,338 - INFO - Click Login
+2026-03-05 10:50:39,338 - INFO - Click Login
+2026-03-05 10:50:39,338 - INFO - Click Login
+2026-03-05 10:50:39,339 - INFO - Clicking element: ('id', 'login-btn')
+2026-03-05 10:50:39,339 - INFO - Clicking element: ('id', 'login-btn')
+2026-03-05 10:50:39,339 - INFO - Clicking element: ('id', 'login-btn')
+2026-03-05 10:50:39,339 - INFO - Clicking element: ('id', 'login-btn')
+2026-03-05 10:50:39,339 - INFO - Clicking element: ('id', 'login-btn')
+2026-03-05 10:50:39,339 - INFO - Clicking element: ('id', 'login-btn')
+2026-03-05 10:50:39,339 - INFO - Clicking element: ('id', 'login-btn')
+2026-03-05 10:50:39,339 - INFO - Clicking element: ('id', 'login-btn')
+2026-03-05 10:50:42,505 - INFO - Adding first product to cart
+2026-03-05 10:50:42,505 - INFO - Adding first product to cart
+2026-03-05 10:50:42,505 - INFO - Adding first product to cart
+2026-03-05 10:50:42,505 - INFO - Adding first product to cart
+2026-03-05 10:50:42,505 - INFO - Adding first product to cart
+2026-03-05 10:50:42,505 - INFO - Adding first product to cart
+2026-03-05 10:50:42,505 - INFO - Adding first product to cart
+2026-03-05 10:50:42,505 - INFO - Adding first product to cart
+2026-03-05 10:50:42,506 - INFO - Clicking element: ('xpath', "(//div[@class='shelf-item']//div[text()='Add to cart'])[1]")
+2026-03-05 10:50:42,506 - INFO - Clicking element: ('xpath', "(//div[@class='shelf-item']//div[text()='Add to cart'])[1]")
+2026-03-05 10:50:42,506 - INFO - Clicking element: ('xpath', "(//div[@class='shelf-item']//div[text()='Add to cart'])[1]")
+2026-03-05 10:50:42,506 - INFO - Clicking element: ('xpath', "(//div[@class='shelf-item']//div[text()='Add to cart'])[1]")
+2026-03-05 10:50:42,506 - INFO - Clicking element: ('xpath', "(//div[@class='shelf-item']//div[text()='Add to cart'])[1]")
+2026-03-05 10:50:42,506 - INFO - Clicking element: ('xpath', "(//div[@class='shelf-item']//div[text()='Add to cart'])[1]")
+2026-03-05 10:50:42,506 - INFO - Clicking element: ('xpath', "(//div[@class='shelf-item']//div[text()='Add to cart'])[1]")
+2026-03-05 10:50:42,506 - INFO - Clicking element: ('xpath', "(//div[@class='shelf-item']//div[text()='Add to cart'])[1]")
+2026-03-05 10:50:45,698 - INFO - Navigating to cart
+2026-03-05 10:50:45,698 - INFO - Navigating to cart
+2026-03-05 10:50:45,698 - INFO - Navigating to cart
+2026-03-05 10:50:45,698 - INFO - Navigating to cart
+2026-03-05 10:50:45,698 - INFO - Navigating to cart
+2026-03-05 10:50:45,698 - INFO - Navigating to cart
+2026-03-05 10:50:45,698 - INFO - Navigating to cart
+2026-03-05 10:50:45,698 - INFO - Navigating to cart
+2026-03-05 10:50:45,698 - INFO - Clicking element: ('class name', 'bag')
+2026-03-05 10:50:45,698 - INFO - Clicking element: ('class name', 'bag')
+2026-03-05 10:50:45,698 - INFO - Clicking element: ('class name', 'bag')
+2026-03-05 10:50:45,698 - INFO - Clicking element: ('class name', 'bag')
+2026-03-05 10:50:45,698 - INFO - Clicking element: ('class name', 'bag')
+2026-03-05 10:50:45,698 - INFO - Clicking element: ('class name', 'bag')
+2026-03-05 10:50:45,698 - INFO - Clicking element: ('class name', 'bag')
+2026-03-05 10:50:45,698 - INFO - Clicking element: ('class name', 'bag')
+2026-03-05 10:50:50,867 - INFO - Add product test ended
+2026-03-05 10:50:50,867 - INFO - Add product test ended
+2026-03-05 10:50:50,867 - INFO - Add product test ended
+2026-03-05 10:50:50,867 - INFO - Add product test ended
+2026-03-05 10:50:50,867 - INFO - Add product test ended
+2026-03-05 10:50:50,867 - INFO - Add product test ended
+2026-03-05 10:50:50,867 - INFO - Add product test ended
+2026-03-05 10:50:50,867 - INFO - Add product test ended

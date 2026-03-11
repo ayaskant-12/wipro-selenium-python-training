@@ -1,0 +1,44 @@
+2026-03-05 10:05:11,661 - INFO - ====== WebDriver manager ======
+2026-03-05 10:05:13,193 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:05:13,661 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:05:13,828 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:05:14,331 - INFO - WebDriver version 145.0.7632.117 selected
+2026-03-05 10:05:14,340 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/win32/chromedriver-win32.zip
+2026-03-05 10:05:14,340 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/win32/chromedriver-win32.zip
+2026-03-05 10:05:14,658 - INFO - Driver downloading response is 200
+2026-03-05 10:05:15,628 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:05:16,076 - INFO - Driver has been saved in cache [C:\Users\KIIT\.wdm\drivers\chromedriver\win64\145.0.7632.117]
+2026-03-05 10:05:23,301 - INFO - Click Sign In button
+2026-03-05 10:05:23,569 - INFO - Wait until login modal appears
+2026-03-05 10:05:24,110 - INFO - Enter Username
+2026-03-05 10:05:24,305 - INFO - Enter Password
+2026-03-05 10:05:24,584 - INFO - Click Login
+2026-03-05 10:05:30,423 - INFO - ====== WebDriver manager ======
+2026-03-05 10:05:31,725 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:05:32,081 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:05:32,264 - INFO - Driver [C:\Users\KIIT\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 10:05:37,230 - INFO - Click Sign In button
+2026-03-05 10:05:37,370 - INFO - Wait until login modal appears
+2026-03-05 10:05:37,913 - INFO - Enter Username
+2026-03-05 10:05:38,120 - INFO - Enter Password
+2026-03-05 10:05:38,297 - INFO - Click Login
+2026-03-05 10:05:43,349 - INFO - ====== WebDriver manager ======
+2026-03-05 10:05:44,720 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:05:45,003 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:05:45,229 - INFO - Driver [C:\Users\KIIT\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 10:05:50,553 - INFO - Login test started
+2026-03-05 10:05:50,553 - INFO - Click Sign In button
+2026-03-05 10:05:50,686 - INFO - Wait until login modal appears
+2026-03-05 10:05:51,220 - INFO - Enter Username
+2026-03-05 10:05:51,379 - INFO - Enter Password
+2026-03-05 10:05:51,533 - INFO - Click Login
+2026-03-05 10:05:51,654 - INFO - Login test ended
+2026-03-05 10:05:53,851 - INFO - ====== WebDriver manager ======
+2026-03-05 10:05:55,005 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:05:55,184 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:05:55,375 - INFO - Driver [C:\Users\KIIT\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 10:06:00,199 - INFO - Click Sign In button
+2026-03-05 10:06:00,362 - INFO - Wait until login modal appears
+2026-03-05 10:06:00,898 - INFO - Enter Username
+2026-03-05 10:06:01,078 - INFO - Enter Password
+2026-03-05 10:06:01,239 - INFO - Click Login

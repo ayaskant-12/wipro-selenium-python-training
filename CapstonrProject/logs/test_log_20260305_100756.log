@@ -1,0 +1,18 @@
+2026-03-05 10:07:57,191 - INFO - ====== WebDriver manager ======
+2026-03-05 10:07:58,748 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:07:58,995 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:07:59,176 - INFO - Driver [C:\Users\KIIT\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 10:08:03,906 - INFO - Click Sign In button
+2026-03-05 10:08:04,050 - INFO - Wait until login modal appears
+2026-03-05 10:08:04,592 - INFO - Enter Username
+2026-03-05 10:08:04,807 - INFO - Enter Password
+2026-03-05 10:08:05,036 - INFO - Click Login
+2026-03-05 10:08:28,641 - INFO - ====== WebDriver manager ======
+2026-03-05 10:08:29,902 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:08:30,108 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 10:08:30,438 - INFO - Driver [C:\Users\KIIT\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 10:08:51,822 - INFO - Click Sign In button
+2026-03-05 10:08:51,968 - INFO - Wait until login modal appears
+2026-03-05 10:08:52,507 - INFO - Enter Username
+2026-03-05 10:08:52,706 - INFO - Enter Password
+2026-03-05 10:08:52,902 - INFO - Click Login
